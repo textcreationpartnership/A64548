@@ -1,0 +1,710 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An historical and geographical account of the province and country of Pensilvania, and of the West-New-Jersey in America ... with a map of both countries / by Gabriel Thomas ...</title>
+            <author>Thomas, Gabriel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64548</idno>
+            <idno type="STC">Wing T964</idno>
+            <idno type="STC">ESTC R2921</idno>
+            <idno type="EEBO-CITATION">13447651</idno>
+            <idno type="OCLC">ocm 13447651</idno>
+            <idno type="VID">99589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An historical and geographical account of the province and country of Pensilvania, and of the West-New-Jersey in America ... with a map of both countries / by Gabriel Thomas ...</title>
+                  <author>Thomas, Gabriel.</author>
+                  <author>Thomas, Gabriel. Historical description of the province ... of West-New Jersey.</author>
+               </titleStmt>
+               <extent>[8], 55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An historical description of the province ... of West-New-Jersey ..." has a special t.p. and separate pagination.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New Jersey --  Description and travel.</term>
+               <term>Pennsylvania --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:99589:1"/>
+                  <pb facs="tcp:99589:1"/>
+                  <p>An Hiſtorical and Geographical Account OF THE PROVINCE and COUNTRY OF PENSILVANIA; AND OF <hi>Weſt-New-Jerſey</hi> IN AMERICA.</p>
+                  <p>The Richneſs of the Soil, the Sweetneſs of the Situation. the Wholeſomneſs of the Air, the Navigable Rivers, and others, the prodigious Encreaſe of Corn, the flouriſhing Condition of the City of <hi>Philadelphia,</hi> with the ſtately Buildings, and other Improvements there. The ſtrange Creatures, as <hi>Birds, Beaſts, Fiſhes,</hi> and <hi>Fowls,</hi> with the ſeveral ſorts of <hi>Minerals, Purging Waters,</hi> and <hi>Stones,</hi> lately diſcovered. The <hi>Natives, Aborogines,</hi> their <hi>Lan<g ref="char:EOLhyphen"/>guage, Religion, Laws,</hi> and <hi>Cuſtoms;</hi> The firſt Planters, the <hi>Dutch, Sweeds,</hi> and <hi>Engliſh,</hi> with the number of its Inhabitants; As alſo a Touch upon <hi>George Keith's New Religion,</hi> in his ſecond Change ſince he left the <hi>QUAKERS</hi>
+                  </p>
+                  <p>
+                     <hi>With a Map of both Countries.</hi>
+                  </p>
+                  <p>
+                     <hi>By</hi> GABRIEL THOMAS, who reſided there about Fifteen Years.</p>
+                  <p>
+                     <hi>London,</hi> Printed for, and Sold by <hi>A. Baldwin,</hi> at the <hi>Oxon Arms</hi> in <hi>Warwick-Lane,</hi> 1698.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:99589:2"/>
+                  <pb facs="tcp:99589:2"/>
+                  <head>THE DEDICATION.</head>
+                  <opener>
+                     <salute>
+                        <hi>Friend</hi> William Penn,</salute>
+                  </opener>
+                  <p>I Here preſent <hi>Thee</hi> with a ſuc<g ref="char:EOLhyphen"/>cinct (yet compleat) Account of the late. Improvement, and Preſent State of the Noble Pro<g ref="char:EOLhyphen"/>vince, and Fertile Countrey of <hi>Pen<g ref="char:EOLhyphen"/>ſilvania;</hi> with the ſtrange things that have been found there, as the <hi>Salamander-Stone,</hi> and ſeveral others, mentioned in this Treatiſe; diſco<g ref="char:EOLhyphen"/>vered ſince thou cameſt out of thoſe Parts. I deſire <hi>Thee</hi> to excuſe me for addreſſing to <hi>Thee,</hi> ſuch a Plain and Peaſant-like Piece; yet however homely or coarſe it may appear, Thou wilt find here a true and genuine
+<pb facs="tcp:99589:3"/> Deſcription of that (once) obſcure, tho' (now) glorious Place. So con<g ref="char:EOLhyphen"/>ſidering how generous and candid a Man <hi>Thou</hi> art, I know thou wilt bear with my weak and imperfect Performance, and accept of my good Meaning and kind Intention, which may encourage me, in time to come, to add ſome more <hi>Memoirs</hi> to this rough Eſſay of mine. Being unwilling to tire <hi>Thee</hi> with any long or tedious Epiſtle, I take my Leave of <hi>Thee,</hi>
+                  </p>
+                  <closer>
+                     <salute>(Moſt Noble and Excellent Governor)</salute>
+                     <signed> and am Thy <hi>hearty Well-wiſher, ever ready to ſerve</hi> Thee <hi>on all Occaſions, (in the way of Truth,)</hi> Gabriel Thomas.</signed>
+                  </closer>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:99589:3"/>
+                  <head>THE PREFACE.</head>
+                  <opener>
+                     <salute>Reader,</salute>
+                  </opener>
+                  <p>
+                     <hi>THere never having been any fair or full Account given to the World of</hi> Pen<g ref="char:EOLhyphen"/>ſilvania, <hi>I thought the Cu<g ref="char:EOLhyphen"/>rious wou'd be gratified with an ample Deſcription thereof.</hi>
+                  </p>
+                  <p>
+                     <hi>For tho' this Country has made little Noiſe in</hi> Story, <hi>or taken up but ſmall room in</hi> Maps, <hi>yet thus much with great Juſtice may be ſaid of it, that notwithſtanding the
+<pb facs="tcp:99589:4"/> Difficulties and Inconvenien<g ref="char:EOLhyphen"/>cie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the</hi> Firſt Engliſh Col<g ref="char:EOLhyphen"/>lonies <hi>met with before they were well ſettled there, yet the mighty Improvements, Additions, and Advantages that have been made lately there, are well worth Communicating to the Publick, and I am ſenſible they will be well receiv'd.</hi>
+                  </p>
+                  <p>
+                     <hi>The late Tedious, Hazard<g ref="char:EOLhyphen"/>ous, and Expenſive War (in which</hi> England, <hi>in Conjunction with the Allies was ſo deeply en<g ref="char:EOLhyphen"/>gag'd) was without doubt no ſmall Bar or Obſtacle to the Flouriſhing of this New Country. The great Diſcouragements the Traders thither lay under, (to<g ref="char:EOLhyphen"/>gether
+<pb facs="tcp:99589:4"/> with the frequent Capture of their Ships out and home, cou'd not chuſe but baulk them in their honeſt Endeavours, which (now Peace is reſtor'd) they may pur<g ref="char:EOLhyphen"/>ſue with greater Security and Satisfaction.</hi>
+                  </p>
+                  <p>
+                     <hi>Nor is there the leaſt queſtion or doubt to be made, but this No<g ref="char:EOLhyphen"/>ble Spot of Earth will thrive ex<g ref="char:EOLhyphen"/>ceedingly, and that in a ſhort time too, and advance conſiderably to the mighty Advantage of the Pre<g ref="char:EOLhyphen"/>ſent and Future Propietors, who have, and are willing to give all due Encouragement to any that ſhall Tranſport themſelves thi<g ref="char:EOLhyphen"/>ther.</hi>
+                  </p>
+                  <pb facs="tcp:99589:5"/>
+                  <p>
+                     <hi>I cou'd ſay much here in Praiſe of that ſweet Tract of Land, but having ſpoken ſo largely and particularly thereof in the Book it ſelf, I ſhall for<g ref="char:EOLhyphen"/>bear the leaſt mention in this place. Nor will I Anticipate or foreſtal thee, by preſenting thee here with what thou wilt find there, with the greater Sa<g ref="char:EOLhyphen"/>tisfaction. And ſo I bid thee heartily farewel.</hi>
+                  </p>
+                  <closer>
+                     <signed>Gab. Thomas.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="map">
+                  <pb facs="tcp:99589:5"/>
+                  <pb facs="tcp:99589:6"/>
+                  <p>
+                     <figure>
+                        <figDesc>map of east Pennsylvania and west New Jersey</figDesc>
+                        <head>PENNSYLVANIA <hi>and</hi> WEST JERS<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="book">
+                  <pb n="1" facs="tcp:99589:6"/>
+                  <head>THE HISTORY OF <hi>Penſilvania,</hi> &amp;c.</head>
+                  <p>
+                     <hi>PEnſilvania</hi> lies between the Latitude of Forty and Forty five Degrees: <hi>Weſt-Jerſey</hi> on the Eaſt, <hi>Virgi<g ref="char:EOLhyphen"/>nia</hi> on the Weſt, <hi>Mary-Land</hi> South, and <hi>Canada</hi> on the North. In Length three hundred, and in Breadth one hundred and eighty Miles.</p>
+                  <p>The Natives, or firſt Inhabi<g ref="char:EOLhyphen"/>tants of this Country in their Ori<g ref="char:EOLhyphen"/>ginal, are ſuppos'd by moſt Peo<g ref="char:EOLhyphen"/>ple to have been of the Ten Scat<g ref="char:EOLhyphen"/>tered Tribes, for they reſemble the <hi>Jews</hi> very much in the <hi>Make</hi>
+                     <pb n="2" facs="tcp:99589:7"/> of their <hi>Perſons,</hi> and <hi>Tincture</hi> of their <hi>Complexions:</hi> They obſerve New <hi>Moons,</hi> they offer their <hi>first Fruits</hi> to a <hi>Maneto,</hi> or ſuppos'd Dei<g ref="char:EOLhyphen"/>ty, whereof they have two, one, as they fanſie, above (good,) ano<g ref="char:EOLhyphen"/>ther below (bad,) and have a kind of <hi>Feaſt</hi> of <hi>Tabernacles,</hi> laying their <hi>Altars</hi> upon <hi>Twelve Stones,</hi> ob<g ref="char:EOLhyphen"/>ſerve a ſort of <hi>Mourning</hi> twelve Months, <hi>Cuſtoms of Women,</hi> and many other <hi>Rites</hi> to be toucht (here) rather than dwelt upon, be<g ref="char:EOLhyphen"/>cauſe they ſhall be handled more at large at the latter end of this Treatiſe.</p>
+                  <p>They are very Charitable to one another, the Lame and the Blind (amongſt them) living as well as the beſt; they are alſo very kind and obliging to the <hi>Chriſtians.</hi>
+                  </p>
+                  <p>The next that came there, were the <hi>Dutch,</hi> (who call'd the Country <hi>New Neitherland)</hi> be<g ref="char:EOLhyphen"/>tween Fifty and Sixty Years a<g ref="char:EOLhyphen"/>go,
+<pb n="3" facs="tcp:99589:7"/> and were the firſt <hi>Planters</hi> in thoſe Parts; but they made lit<g ref="char:EOLhyphen"/>tle or no Improvement, (apply<g ref="char:EOLhyphen"/>ing themſelves wholly to Tra<g ref="char:EOLhyphen"/>fique in Skins and Furs, which the <hi>Indians</hi> or <hi>Natives</hi> furniſh'd them with, and which they Bar<g ref="char:EOLhyphen"/>ter'd for Rum, Strong Liquors, and Sugar, with others, thereby gaining great Profit) till near the time of the Wars between <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Them,</hi> about Thirty or Forty Years ago.</p>
+                  <p>Soon after them came the <hi>Swedes</hi> and <hi>Fins,</hi> who apply'd themſelves to Husbandry, and were the firſt <hi>Christian</hi> People that made any conſiderable Im<g ref="char:EOLhyphen"/>provement there.</p>
+                  <p>There were ſome Diſputes be<g ref="char:EOLhyphen"/>tween theſe two Nations ſome Years, the <hi>Dutch</hi> looking upon the <hi>Swedes</hi> as Intruders upon their Purchaſe and Poſſeſſion, which was abſolutely terminat<g ref="char:EOLhyphen"/>ed in the Surrender made by <hi>John
+<pb n="4" facs="tcp:99589:8"/> Rizeing,</hi> the <hi>Swedes</hi> Governour, to <hi>Peter Styreant,</hi> Governour for the <hi>Dutch,</hi> in 1655. In the <hi>Holland</hi> War about the Year 1665. Sir <hi>Robert Carr</hi> took the Country from the <hi>Dutch</hi> for the <hi>Engliſh,</hi> and left his Couſin, Cap<g ref="char:EOLhyphen"/>tain <hi>Carr,</hi> Governor of that place; but in a ſhort time after, the <hi>Dutch</hi> re-took the Country from the <hi>Engliſh,</hi> and kept it in their Poſſeſſion till the Peace was con<g ref="char:EOLhyphen"/>cluded between the <hi>Engliſh</hi> and them, when the <hi>Dutch</hi> Surren<g ref="char:EOLhyphen"/>dered that <hi>Country</hi> with <hi>Eaſt</hi> and <hi>Weſt-Jerſey, New-York,</hi> (with the whole Countries belonging to that Government) to the <hi>Engliſh</hi> again. But it remain'd with ve<g ref="char:EOLhyphen"/>ry little Impovement till the Year 1681. in which <hi>William Penn</hi> Eſq; had the Country given him by King <hi>Charles</hi> the <hi>Second,</hi> in lieu of Money that was due to (and ſignal Service done by) his Father, Sir <hi>William Penn,</hi> and from him bore the Name of <hi>Pen<g ref="char:EOLhyphen"/>ſilvania.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:99589:8"/>
+                  <p>Since that time, the Induſtri<g ref="char:EOLhyphen"/>ous (nay Indefatigable) Inhabi<g ref="char:EOLhyphen"/>tants have built a <hi>Noble</hi> and <hi>Beau<g ref="char:EOLhyphen"/>tiful</hi> City, and called it <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi> which contains above two thouſand Houſes, all Inhabited; and moſt of them Stately, and of Brick, generally three Stories high, after the Mode in <hi>London,</hi> and as many ſeveral Families in each. There are very many <hi>Lanes</hi> and <hi>Alleys,</hi> as firſt, <hi>Hut<g ref="char:EOLhyphen"/>tons-Lane, Morris-Lane, Jones's-Lane,</hi> wherein are very good Buildings; <hi>Shorters-Alley, Yowers-Lane, Wallers-Alley, Turners-Lane, Sikes-Alley,</hi> and <hi>Flowers-Alley.</hi> All theſe <hi>Alleys</hi> and <hi>Lanes</hi> extend from the <hi>Front Street</hi> to the <hi>Second-Street.</hi> There is another <hi>Alley</hi> in the <hi>Second Street,</hi> called <hi>Carters-Alley.</hi> There are alſo beſides theſe <hi>Alleys</hi> and <hi>Lanes,</hi> ſeveral fine <hi>Squares</hi> and <hi>Courts</hi> within this Magnificent City, (for ſo I may juſtly call it.) As for the particular Names of the ſeveral
+<pb n="6" facs="tcp:99589:9"/> 
+                     <hi>Streets</hi> contained therein, the Principal are as follows, <hi>viz. Wal<g ref="char:EOLhyphen"/>nut-Street, Vine-Street, Mulberry-Street, Cheſnut-Street, Saſſafras-Street,</hi> taking their Names from the abundance of thoſe Trees that formerly grew there; <hi>High-Street, Broad-Street, Delaware-Street, Front-Street,</hi> with ſeveral of leſs Note, too tedious to inſert here.</p>
+                  <p>It hath in it Three <hi>Fairs</hi> every Year, and Two <hi>Markets</hi> every Week. They kill above Twenty <hi>Fat Bullocks</hi> every Week, in the hotteſt time in Summer, for their preſent ſpending in that City, beſides many <hi>Sheep, Calves,</hi> and <hi>Hogs.</hi>
+                  </p>
+                  <p>This City is Situated between <hi>Schoolkill-River</hi> and the great River <hi>Delaware,</hi> which derives its Name from Captain <hi>Delaware,</hi> who came there pretty early: Ships of Two or Three Hundred Tuns may come up to this City, by either of theſe two Rivers. Moreover, in this Province are Four Great <hi>Market-Towns,</hi> viz.
+<pb n="7" facs="tcp:99589:9"/> 
+                     <hi>Cheſter,</hi> the <hi>German Town, New-Caſtle,</hi> and <hi>Lewis-Town,</hi> which are mightily Enlarged in this latter Improvement. Between theſe Towns, the Water-Men con<g ref="char:EOLhyphen"/>ſtantly Ply their <hi>Wherries;</hi> like<g ref="char:EOLhyphen"/>wiſe all thoſe Towns have <hi>Fairs</hi> kept in them, beſides there are ſeveral Country Villages, <hi>viz. Dublin, Harford, Merioneth,</hi> and <hi>Radnor</hi> in <hi>Cumbry;</hi> all which <hi>Towns, Villages</hi> and <hi>Rivers,</hi> took their Names from the ſeveral <hi>Countries</hi> whence the preſent In<g ref="char:EOLhyphen"/>habitants came.</p>
+                  <p>The <hi>Air</hi> here is very delicate, pleaſant, and wholeſom; the <hi>Heavens</hi> ſerene, rarely overcaſt, bearing mighty reſemblance to the better part of <hi>France;</hi> after Rain they have commonly a ve<g ref="char:EOLhyphen"/>ry clear Sky, the Climate is ſome<g ref="char:EOLhyphen"/>thing Colder in the depth of Winter, and Hotter in the height of Summer; (the cauſe of which is its being a Main Land or Continent; the Days alſo are
+<pb n="8" facs="tcp:99589:10"/> two Hours longer in the ſhorteſt Day in Winter, and ſhorter by two Hours in the longeſt Day of Summer) than here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which makes the Fruit ſo good, and the Earth ſo fertil.</p>
+                  <p>The Corn-Harveſt is ended be<g ref="char:EOLhyphen"/>fore the middle of <hi>July,</hi> and moſt Years they have commonly be<g ref="char:EOLhyphen"/>tween Twenty and Thirty Buſhels of Wheat for every one they Sow. Their Ground is harrowed with Wooden Tyn<g ref="char:EOLhyphen"/>ed Harrows, twice over in a place is ſufficient; twice mend<g ref="char:EOLhyphen"/>ing of their Plow-Irons in a Years time will ſerve. Their Horſes commonly go without being ſhod; two Men may clear be<g ref="char:EOLhyphen"/>tween Twenty and Thirty A<g ref="char:EOLhyphen"/>cres of Land in one Year, fit for the Plough, in which Oxen are chiefly us'd, though Horſes are not wanting, and of them Good and well ſhap'd. A Cart or a Wain may go through the mid<g ref="char:EOLhyphen"/>dle of the Woods, between the
+<pb n="9" facs="tcp:99589:10"/> Trees without getting any da<g ref="char:EOLhyphen"/>mage, and of ſuch Land in a convenient place, the Purchaſe will coſt between <hi>Ten</hi> and <hi>Fif<g ref="char:EOLhyphen"/>teen Pounds</hi> for a Hundred Acres. * Here is much Meadow Ground. Poor People both Men and Wo<g ref="char:EOLhyphen"/>men, will get near three times more Wages for their Labour in this Country, than they can earn either in <hi>England</hi> or <hi>Wales.</hi>
+                  </p>
+                  <p>What is Inhabited of this Country, is divided into Six <hi>Counties,</hi> though there is not the Twentieth Part of it, yet Peopled by the <hi>Chriſtians:</hi> It hath in it ſeveral Navigable Rivers for Shipping to come in, beſides the Capital <hi>Delaware,</hi> wherein a Ship of Two Hundred Tuns may Sail Two Hundred Miles up. There are alſo ſeveral other ſmall Rivers, in number hardly Cre<g ref="char:EOLhyphen"/>dible; theſe, as the Brooks, have for the moſt part gravelly and hard Bottoms; and it is ſup<g ref="char:EOLhyphen"/>pos'd that there are many other further up in the Country, which
+<pb n="10" facs="tcp:99589:11"/> are not yet diſcover'd; the Names of the aforeſaid Rivers, are, <hi>Hoorkill-River,</hi> alias <hi>Lewis River,</hi> which runs up to <hi>Lewis Town,</hi> the chiefeſt in <hi>Suſſex Coun<g ref="char:EOLhyphen"/>ty; Cedar-River, Muskmellon-Ri<g ref="char:EOLhyphen"/>ver,</hi> all taking their Names from the great plenty of theſe things growing there abouts; <hi>Mother-kill</hi> alias <hi>Dover-River,</hi> St. <hi>Jones</hi>'s alias <hi>Cranbrook-River,</hi> where one <hi>John Curtice</hi> lives, who hath Three Hundred Head of Neat Beaſts, beſides great Numbers of <hi>Hogs, Horſes,</hi> and <hi>Sheep; Great Duck-River, Little Duck-River, Black-Bird-River,</hi> theſe alſo took their Original Names from the great Numbers of thoſe Fowls which are found there in vaſt quan<g ref="char:EOLhyphen"/>tities; <hi>Apequinemy-River,</hi> where their Goods come to be Carted over to <hi>Mary-Land.</hi> St. <hi>George</hi>'s-<hi>River, Chriſten-River, Brandy-Wine-River, <g ref="char:V">Ʋ</g>pland</hi> alias <hi>Chester-River,</hi> which runs by <hi>Chester-Town,</hi> being the Shire or Coun<g ref="char:EOLhyphen"/>ty-Town; <hi>Schoolkill-River, Frank<g ref="char:EOLhyphen"/>ford-River,</hi>
+                     <pb n="11" facs="tcp:99589:11"/> near which, <hi>Arthur Cook</hi> hath a moſt Stately Brick-Houſe; and <hi>Niſhamany-River,</hi> where Judge <hi>Growden</hi> hath a ve<g ref="char:EOLhyphen"/>ry Noble and Fine Houſe, very pleaſantly Situated, and likewiſe a Famous Orchard adjoyn<g ref="char:EOLhyphen"/>ing to it, wherein are contain'd above a Thouſand Apple Trees of various ſorts; likewiſe there is the famous <hi>Derby-River,</hi> which comes down from the <hi>Cumbry</hi> by <hi>Derby-Town,</hi> wherein are ſe<g ref="char:EOLhyphen"/>veral <hi>Mills,</hi> viz. <hi>Fulling-Mills, Corn-Mills,</hi> &amp;c.</p>
+                  <p>There is curious <hi>Building-Stone</hi> and <hi>Paving-Stone,</hi> alſo <hi>Tile-Stone,</hi> with which latter, Governor <hi>Penn</hi> covered his <hi>Great</hi> and <hi>Stately Pile,</hi> which he call'd <hi>Pennsbury-Houſe,</hi> the Name it ſtill retains. There is likewiſe <hi>Iron-Stone</hi> or <hi>Oar,</hi> (lately found) which far ex<g ref="char:EOLhyphen"/>ceeds that in <hi>England,</hi> being Richer and leſs Droſſy; ſome Pre<g ref="char:EOLhyphen"/>parations have been made to carry on an Iron-Work: There
+<pb n="12" facs="tcp:99589:12"/> is alſo very good <hi>Lime-Stone</hi> in great plenty, and cheap, of great uſe in Buildings, and alſo in Manu<g ref="char:EOLhyphen"/>ring Land, (if there were occa<g ref="char:EOLhyphen"/>ſion) but Nature has made that of it ſelf ſufficiently Fruitful; beſides here are <hi>Load-Stones, Iſing-Glaſs,</hi> and (that Wonder of Stones) the <hi>Salamander-Stone,</hi> found near <hi>Brandy-Wine-River,</hi> having <hi>Cotton</hi> in Veins within it, which will not conſume in the Fire, though held there a long time.</p>
+                  <p>As to <hi>Minerals,</hi> or <hi>Metals,</hi> there is very good <hi>Copper,</hi> far exceeding ours in <hi>England,</hi> be<g ref="char:EOLhyphen"/>ing much Finer, and of a more glorious Colour. Not two Mile from the <hi>Metropolis,</hi> are alſo <hi>Purg<g ref="char:EOLhyphen"/>ing Mineral-Waters,</hi> that paſs both by <hi>Siege</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>rine,</hi> all out as good as <hi>Epſom:</hi> And I have rea<g ref="char:EOLhyphen"/>ſon to believe, there are good <hi>Coals</hi> alſo, for I obſerv'd, the Runs of Water have the ſame Colour as that which pro<g ref="char:EOLhyphen"/>ceeds from the <hi>Coal-Mines</hi> in <hi>Wales.</hi>
+                  </p>
+                  <pb n="13" facs="tcp:99589:12"/>
+                  <p>Here is curious Diverſion in Hunting, Fiſhing, and Fowling, eſpecially upon that Great and Famous River <hi>Suskahanah,</hi> which runs down quite through the heart of the Country to <hi>Mary-Land,</hi> where it makes the Head of <hi>Cheſepeck-Bay,</hi> in which place there are an Infinite Number of Sea and Land Fowl, of moſt ſorts, <hi>viz. Swans, Ducks, Teal,</hi> (which two are the moſt Grate<g ref="char:EOLhyphen"/>ful and moſt Delicious in the World) <hi>Geeſe, Divers, Brands, Snipe, Curlew;</hi> as alſo <hi>Eagles, Tur<g ref="char:EOLhyphen"/>kies</hi> (of Forty or Fifty Pound Weight) <hi>Pheaſants, Partridges, Pidgeons, Heath-Birds, Black-Birds;</hi> and that Strange and Re<g ref="char:EOLhyphen"/>markable Fowl, call'd. (in theſe Parts) the <hi>Mocking-Bird,</hi> that Imitates all ſorts of Birds in their various Notes. And for Fiſh, there are prodigious quan<g ref="char:EOLhyphen"/>tities of moſt ſorts, <hi>viz. Shadds Cats-Heads, Sheeps-Heads, Her<g ref="char:EOLhyphen"/>rings, Smelts, Roach, Eels, Perch.</hi>
+                     <pb n="14" facs="tcp:99589:13"/> As alſo the large ſort of Fiſh, as <hi>Whales</hi> (of which a great deal of Oyl is made) <hi>Salmon, Trout, Sturgeon, Rock, Oyſters,</hi> (ſome ſix Inches long) <hi>Crabs, Cockles,</hi> (ſome as big as Stewing <hi>Oyſters</hi> of which are made a Choice Soupe or Broth) <hi>Canok</hi> and <hi>Muſſels,</hi> with many other ſorts of Fiſh, which would be too tedious to inſert.</p>
+                  <p>There are ſeveral ſorts of wild <hi>Beaſts</hi> of great Profit, and good Food; <hi>viz. Panthers, Woolves, Fither, Deer, Beaver, Otter, Hares, Musk-Rats, Minks, Wild-Cats, Foxes, Rackoons, Rabits,</hi> and that ſtrange Creature, the <hi>Poſſam,</hi> ſhe having a falſe Belly to ſwal<g ref="char:EOLhyphen"/>low her Young ones, by which means ſhe preſerveth them from danger, when any thing comes to diſturb them. There are alſo <hi>Bears</hi> ſome <hi>Wolves,</hi> are pretty well deſtroy'd by the <hi>Indians,</hi> for the ſake of the Reward gi<g ref="char:EOLhyphen"/>ven them by the <hi>Chriſtians</hi> for
+<pb n="15" facs="tcp:99589:13"/> that Service. Here is alſo that Re<g ref="char:EOLhyphen"/>markable Creature the <hi>Flying-Squirrel,</hi> having a kind of Skinny Wings, almoſt like thoſe of the <hi>Batt,</hi> though it hath the like Hair and Colour of the Com<g ref="char:EOLhyphen"/>mon <hi>Squirrel,</hi> but is much leſs in Bodily Subſtance; I have (my ſelf) ſeen it fly from one Tree to another in the Woods, but how long it can maintain its Flight is not yet exactly known.</p>
+                  <p>There are in the Woods abun<g ref="char:EOLhyphen"/>dance of <hi>Red Deer</hi> (vulgarly call<g ref="char:EOLhyphen"/>ed <hi>Stags)</hi> for I have bought of the <hi>Indians</hi> a whole <hi>Buck,</hi> (both Skin and Carcaſs) for two Gills of Gunpowder. Excellent Food, moſt delicious, far exceeding that in <hi>Europe,</hi> in the Opinion of moſt that are Nice and Curious People. There are vaſt Numbers of other Wild Creatures, as <hi>Elks, Bufa<g ref="char:EOLhyphen"/>los,</hi> &amp;c. all which as well Beaſts, Fowl, and Fiſh, are free and common to any Perſon who can ſhoot or take them, without
+<pb n="16" facs="tcp:99589:14"/> any lett, hinderance or Oppoſi<g ref="char:EOLhyphen"/>tion whatſoever.</p>
+                  <p>There are among other vari<g ref="char:EOLhyphen"/>ous ſorts of <hi>Frogs,</hi> the <hi>Bull-Frog,</hi> which makes a roaring noiſe, hard<g ref="char:EOLhyphen"/>ly to be diſtinguiſhed from that well known of the Beaſt, from whom it takes its Name: There is another ſort of <hi>Frog</hi> that crawls up to the tops of Trees, there ſeeming to imitate the Notes of ſeveral <hi>Birds,</hi> with many other ſtrange and various Creatures, which would take up too much room here to mention.</p>
+                  <p>Next, I ſhall proceed to in<g ref="char:EOLhyphen"/>ſtance in the ſeveral ſorts of Wild Fruits, as excellent <hi>Grapes, Red, Black, White, Muſcadel,</hi> and <hi>Fox,</hi> which upon frequent Experience have produc'd Choice Wine, being daily Cultivated by skil<g ref="char:EOLhyphen"/>ful <hi>Vinerons;</hi> they will in a ſhort ſpace of time, have very good Liquor of their own, and ſome to ſupply their Neighbours, to
+<pb n="17" facs="tcp:99589:14"/> their great advantage; as theſe Wines are more pure, ſo much more wholſom; the Brewing Trade of Sophiſticating and Adulterating of Wines, as in <hi>England, Holland</hi> (eſpecially) and in ſome other places not being known there yet, nor in all pro<g ref="char:EOLhyphen"/>bability will it in many Years, through a natural Probity ſo fixed and implanted in the In<g ref="char:EOLhyphen"/>habitants, and (I hope) like to continue. <hi>Wallnuts, Cheſnuts, Filberts, Heckery-Nuts, Hartleber<g ref="char:EOLhyphen"/>ries, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lberries,</hi> (white and black) <hi>Rasberries, Strawberries, Cramber<g ref="char:EOLhyphen"/>ries, Plumbs</hi> of ſeveral ſorts, and many other Wild Fruits, in great plenty, which are common and free for any to gather; to particularize the Names of them all, would take up too much time; tire, not gratifie the Reader, and be inconſiſtent with the in<g ref="char:EOLhyphen"/>tended Brevity of this little Vo<g ref="char:EOLhyphen"/>lume.</p>
+                  <pb n="18" facs="tcp:99589:15"/>
+                  <p>The common Planting <hi>Fruit-Trees,</hi> are <hi>Apples,</hi> which from a Kernel (without Inoculating) will ſhoot up to be a large Tree, and produce very delicious, large, and pleaſant Fruit, of which much excellent <hi>Cyder</hi> is made, in taſte reſembling that in <hi>England</hi> preſs'd from <hi>Pippins</hi> and <hi>Pear<g ref="char:EOLhyphen"/>mains,</hi> ſold commonly for be<g ref="char:EOLhyphen"/>tween Ten and Fifteen Shillings <hi>per</hi> Barrel. <hi>Pears, Peaches,</hi> &amp;c. of which they diſtil a Liquor much like the taſte of <hi>Rumm,</hi> or <hi>Brandy,</hi> which they Yearly make in great quantities: There are <hi>Quinces, Cherries, Goosberries, Currants, Squaſhes, Pumpkins, Water-Mellons, Muskmellons,</hi> and other <hi>Fruits</hi> in great Numbers, which ſeldom fail of yielding great plenty. There are alſo many curious and excellent <hi>Phy<g ref="char:EOLhyphen"/>ſical Wild Herbs, Roots,</hi> and <hi>Drugs</hi> of great Vertue, and very ſana<g ref="char:EOLhyphen"/>tive, as the <hi>Saſſafras,</hi> and <hi>Sarſa<g ref="char:EOLhyphen"/>parilla,</hi> ſo much us'd in Diet-Drinks
+<pb n="19" facs="tcp:99589:15"/> for the Cure of the Ve<g ref="char:EOLhyphen"/>neral Diſeaſe, which makes the <hi>Indians</hi> by a right application of them, as able <hi>Doctors</hi> and <hi>Sur<g ref="char:EOLhyphen"/>geons</hi> as any in <hi>Europe,</hi> perform<g ref="char:EOLhyphen"/>ing celebrated Cures therewith, and by the uſe of ſome particu<g ref="char:EOLhyphen"/>lar <hi>Plants</hi> only, find Remedy in all <hi>Swellings, Burnings, Cuts,</hi> &amp;c. There grows alſo in great plenty the <hi>Black Snake-Root,</hi> (fam'd for its ſometimes preſerving, but of<g ref="char:EOLhyphen"/>ten curing the <hi>Plague,</hi> being in<g ref="char:EOLhyphen"/>fuſed only in Wine, Brandy or Rumm) <hi>Rattle-Snake-Root, Poke-Root,</hi> called in <hi>England Jallop,</hi> with ſeveral other beneficial <hi>Herbs, Plants</hi> and <hi>Roots,</hi> which <hi>Phyſicians</hi> have approved of, far exceeding in Nature and Vertue, thoſe of other Countries.</p>
+                  <p>The Names of the Counties are as followeth; Firſt, <hi>Phila<g ref="char:EOLhyphen"/>delphia County;</hi> Second, <hi>Bucks County;</hi> Third, <hi>Cheſter County;</hi> Fourth, <hi>New-Caſtle County;</hi> Fifth, <hi>Kent County;</hi> Sixth, <hi>Suſſex Coun<g ref="char:EOLhyphen"/>ty.</hi>
+                     <pb n="20" facs="tcp:99589:16"/> The chiefeſt and moſt com<g ref="char:EOLhyphen"/>modious places for raiſing To<g ref="char:EOLhyphen"/>bacco, as alſo for Breeding and Improving all ſorts of Cattle, are the Counties of <hi>Kent</hi> and <hi>New-Caſtle;</hi> the other chiefly de<g ref="char:EOLhyphen"/>pend upon Raiſing and Improv<g ref="char:EOLhyphen"/>ing <hi>Engliſh Grain,</hi> of which they have a prodigious Encreaſe, which I have particularly in<g ref="char:EOLhyphen"/>ſtanced in the beginning of this Book, both as to their Quality and Quantity: All thoſe Coun<g ref="char:EOLhyphen"/>ties alſo very much abound in all ſorts of <hi>Cattle,</hi> both ſmall and great, for the Uſe and Service of Man.</p>
+                  <p>Their ſorts of <hi>Grain</hi> are, <hi>Wheat, Rye, Peaſe, Oates, Barley, Buck-Wheat, Rice, Indian-Corn, Indian-Peaſe,</hi> and <hi>Beans,</hi> with great quantities of <hi>Hemp</hi> and <hi>Flax;</hi> as alſo ſeveral ſorts of eating Roots, as <hi>Turnips, Potatoes, Carrats, Parſ<g ref="char:EOLhyphen"/>nips,</hi> &amp;c. all which are produc'd Yearly in greater quantities than in <hi>England,</hi> thoſe <hi>Roots</hi> being
+<pb n="21" facs="tcp:99589:16"/> much larger, and altogether as ſweet, if not more delicious; <hi>Cucumbers, Coſhaws, Artichokes,</hi> with many others; moſt ſorts of Saladings, beſides what grows naturally Wild in the Country, and that in great plenty alſo, as <hi>Muſtard, Rue, Sage, Mint, Tanzy, Wormwood, Penny-Royal</hi> and <hi>Pur<g ref="char:EOLhyphen"/>ſlain,</hi> and moſt of the Herbs and Roots found in the Gardens in <hi>England.</hi> There are ſeveral Husband-Men, who ſow Yearly between Seventy and Eighty Acres of <hi>Wheat</hi> each, beſides <hi>Bar<g ref="char:EOLhyphen"/>ley, Oates, Rye, Peaſe, Beans,</hi> and other Grain.</p>
+                  <p>They have commonly <hi>Two Harveſts</hi> in the Year; Firſt, of <hi>Engliſh Wheat,</hi> and next of <hi>Buck,</hi> (or <hi>French)</hi> Wheat. They have great Stocks both of <hi>Hogs</hi> and <hi>Horſes,</hi> kept in the Woods, out of which, I ſaw a <hi>Hog</hi> kill'd, of about a Year old, which weigh'd Two Hundred weight; whoſe Fleſh is much ſweeter, and even
+<pb n="22" facs="tcp:99589:17"/> more luſcious than that in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> becauſe they feed and fat<g ref="char:EOLhyphen"/>ten on the rich (though wild) Fruits, beſides thoſe fatned at home by <hi>Peaches, Cherries</hi> and <hi>Apples.</hi> Their <hi>Horſes</hi> are very hardy, inſomuch that being ve<g ref="char:EOLhyphen"/>ry hot with riding or other<g ref="char:EOLhyphen"/>wiſe, they are turn'd out into the Woods at the ſame Inſtant, and yet receive no harm; ſome Farmers have Forty, ſome Sixty, and from that Number to Two or Three Hundred Head of <hi>Cattle:</hi> Their Oxen uſually weigh Two Hundred Pounds a Quar<g ref="char:EOLhyphen"/>ter. They are commonly fatter of Fleſh, and yield more Tal<g ref="char:EOLhyphen"/>low (by feeding only on Graſs) than the Cattle in <hi>England.</hi> And for <hi>Sheep,</hi> they have conſi<g ref="char:EOLhyphen"/>derable Numbers which are ge<g ref="char:EOLhyphen"/>nerally free from thoſe infectious Diſeaſes which are incident to thoſe Creatures in <hi>England,</hi> as the <hi>Rot, Scab,</hi> or <hi>Maggots;</hi> They commonly bring forth two <hi>Lambs</hi> at once, ſome <hi>twiſe in one
+<pb n="23" facs="tcp:99589:17"/> Year,</hi> and the Wooll is very fine, and thick, and alſo very white.</p>
+                  <p>
+                     <hi>Bees</hi> thrive and multiply ex<g ref="char:EOLhyphen"/>ceedingly in thoſe Parts, the <hi>Sweeds</hi> often get great ſtore of them in the Woods, where they are free for any Body. Honey (and choice too) is ſold in the Capital City for Five Pence <hi>per</hi> Pound. Wax is alſo plentiful, cheap, and a conſiderable Com<g ref="char:EOLhyphen"/>merce. Tame Fowls, as <hi>Chickens, Hens, Geeſe, Ducks, Turkeys,</hi> &amp;c. are large, and very plentiful all over this Countrey.</p>
+                  <p>And now for their Lots and Lands in City and Countrey, in their great Advancement ſince they were firſt laid out, which was within the compaſs of about Twelve Years, that which might have been bought for Fifteen or Eighteen Shillings, is now ſold for Fourſcore Pounds in ready Silver; and ſome other Lots, that might have been then
+<pb n="24" facs="tcp:99589:18"/> Purchaſed for Three Pounds, within the ſpace of Two Years, were ſold for a Hundred Pounds a piece, and likewiſe ſome Land that lies near the City, that Sixteen Years ago might have been Purchas'd for Six or Eight Pounds the Hundred Acres, can<g ref="char:EOLhyphen"/>not now be bought under One Hundred and Fifty, or Two Hundred Pounds.</p>
+                  <p>Now the true Reaſon why this Fruitful Countrey and Flo<g ref="char:EOLhyphen"/>riſhing City advance ſo conſi<g ref="char:EOLhyphen"/>derably in the Purchaſe of Lands both in the one and the other, is their great and extended Traf<g ref="char:EOLhyphen"/>fique and Commerce both by Sea and Land, <hi>viz.</hi> to <hi>New-York, New-England, Virginia, Mary-Land, Carolina, Jamaica, Barba<g ref="char:EOLhyphen"/>does, Nevis, Monſerat, Antego,</hi> St. <hi>Criſtophers, Barmudoes, New-Found-Land, Maderas, Saltetudeous,</hi> and <hi>Old-England;</hi> beſides ſeveral o<g ref="char:EOLhyphen"/>ther places. Their Merchandize chiefly conſiſts in <hi>Horſes, Pipe-Staves,
+<pb n="25" facs="tcp:99589:18"/> Pork</hi> and <hi>Beef</hi> Salted and Barrelled up, <hi>Bread,</hi> and <hi>Flower,</hi> all ſorts of Grain, <hi>Peaſe, Beans, Skins, Furs, Tobacco,</hi> or <hi>
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t-Aſhes, Wax,</hi> &amp;c. which are Barter'd for <hi>Rumm, Sugar, Mo<g ref="char:EOLhyphen"/>laſſes, Silver, Negroes, Salt, Wine, Linen, Houſhold-Goods,</hi> &amp;c.</p>
+                  <p>However there ſtill remain Lots of Land both in the afore<g ref="char:EOLhyphen"/>ſaid City and Country, that a<g ref="char:EOLhyphen"/>ny may Purchaſe almoſt as cheap as they could at the firſt Laying out or Parcelling of either City or Country; which is, (in the Judgment of moſt People) the likelieſt to turn to account to thoſe that lay their Money out upon it, and in a ſhorter time than the aforementioned Lots and Lands that are already im<g ref="char:EOLhyphen"/>proved, and for ſeveral Reaſons. In the firſt place, the Countrey is now well inhabited by the Chriſtians, who have great Stocks of all ſorts of Cattle, that encreaſe extraordinarily, and up<g ref="char:EOLhyphen"/>on
+<pb n="26" facs="tcp:99589:19"/> that account they are oblig'd to go farther up into the Coun<g ref="char:EOLhyphen"/>trey, becauſe there is the chiefeſt and beſt place for their Stocks, and for them that go back into the Countrey, they get the richeſt Land, for the beſt lies thereabouts.</p>
+                  <p>Secondly, Farther into the Countrey is the Principal Place to Trade with the <hi>Indians</hi> for all ſorts of <hi>Pelt,</hi> as <hi>Skins</hi> and <hi>Furs,</hi> and alſo <hi>Fat Veniſon,</hi> of whom People may Purchaſe cheaper by three Parts in four than they can at the City of <hi>Philadelphia.</hi>
+                  </p>
+                  <p>Thirdly, Backwards in the Countrey lies the <hi>Mines</hi> where is <hi>Copper</hi> and <hi>Iron,</hi> beſides other <hi>Metals,</hi> and <hi>Minerals,</hi> of which there is ſome Improvement made already in order to bring them, to greater Perfection; and that will be a means to erect more Inland Market-Towns,
+<pb n="27" facs="tcp:99589:19"/> which exceedingly promote Traffick.</p>
+                  <p>Fourthly, and laſtly, Becauſe the Countrey at the firſt, lay<g ref="char:EOLhyphen"/>ing out, was void of Inhabi<g ref="char:EOLhyphen"/>tants (except the Heathens, or very few Chriſtians not worth naming) and not many People caring to abandon a quiet and eaſie (at leaſt tolerable) Life in their Native Countrey (uſually the moſt agreeable to all Man<g ref="char:EOLhyphen"/>kind) to ſeek out a new hazard<g ref="char:EOLhyphen"/>ous, and careful one in a Fo<g ref="char:EOLhyphen"/>reign Wilderneſs or Deſart Coun<g ref="char:EOLhyphen"/>trey, wholly deſtitute of Chri<g ref="char:EOLhyphen"/>ſtian Inhabitants, and even to arrive at which, they muſt paſs over a vaſt Ocean, expos'd to ſome Dangers, and not a few In<g ref="char:EOLhyphen"/>conveniencies: But now all thoſe Cares, Fears and Hazards are vaniſhed, for the Countrey is pretty well Peopled, and very much Improv'd, and will be more every Day, now the Dove
+<pb n="28" facs="tcp:99589:20"/> is return'd with the Olive-branch of Peace in her Mouth.</p>
+                  <p>I muſt needs ſay, even the preſent Encouragements are ve<g ref="char:EOLhyphen"/>ry great and inviting, for Poor People (both Men and Women) of all kinds, can here get three times the Wages for their La<g ref="char:EOLhyphen"/>bour they can in <hi>England</hi> or <hi>Wales.</hi>
+                  </p>
+                  <p>I ſhall inſtance in a few, which may ſerve; nay, and will hold in all the reſt. The firſt was a <hi>Black-Smith,</hi> (my next Neighbour) who himſelf and one Negro Man he had, got Fifty Shillings in one Day, by working up a Hundred Pound Weight of Iron, which at Six Pence <hi>per</hi> Pound (and that is the common Price in that Coun<g ref="char:EOLhyphen"/>trey) amounts to that Summ.</p>
+                  <p>And for <hi>Carpenters,</hi> both <hi>Houſe</hi> and <hi>Ship, Brick-layers, Ma<g ref="char:EOLhyphen"/>ſons,</hi> either of theſe Trades-Men,
+<pb n="29" facs="tcp:99589:20"/> will get between Five and Six Shillings every Day conſtantly. As to <hi>Journey-Men Shooe-Makers,</hi> they have Two Shillings <hi>per</hi> Pair both for Men and Womens Shooes: And <hi>Journey-Men Tay<g ref="char:EOLhyphen"/>lors</hi> have Twelve Shillings <hi>per</hi> Week and their Diet. <hi>Sawyers</hi> get between Six and Seven Shil<g ref="char:EOLhyphen"/>lings the Hundred for Cutting of Pine-Boards. And for <hi>Wea<g ref="char:EOLhyphen"/>vers,</hi> they have Ten or Twelve Pence the Yard for Weaving of that which is little more than half a Yard in breadth. <hi>Wooll-Combers,</hi> have for combing Twelve Pence <hi>per</hi> Pound. <hi>Pot<g ref="char:EOLhyphen"/>ters</hi> have Sixteen Pence for an Earthen Pot which may be bought in <hi>England</hi> for Four Pence. <hi>Tanners,</hi> may buy their Hides green for Three Half Pence <hi>per</hi> Pound, and ſell their Leather for Twelve Pence <hi>per</hi> Pound. And <hi>Curriers</hi> have Three Shillings and Four Pence <hi>per</hi> Hide for Dreſſing it; they buy their Oyl at Twenty
+<pb n="30" facs="tcp:99589:21"/> Pence <hi>per</hi> Gallon. <hi>Brick-Makers</hi> have Twenty Shillings <hi>per</hi> Thou<g ref="char:EOLhyphen"/>ſand for their Bricks at the Kiln. <hi>Felt-Makers</hi> will have for their Hats Seven Shillings a piece, ſuch as may be bought in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for Two Shillings a piece; yet they buy their <hi>Wooll</hi> com<g ref="char:EOLhyphen"/>monly for Twelve or Fifteen Pence <hi>per</hi> Pound. And as to the <hi>Glaziers,</hi> they will have Five Pence a Quarry for their Glaſs. The Rule for the <hi>Coo<g ref="char:EOLhyphen"/>pers</hi> I have almoſt forgot; but this I can affirm of ſome who went from <hi>Briſtol,</hi> (as their Neighbours report) that could hardly get their Livelihoods there, are now reckon'd in <hi>Pen<g ref="char:EOLhyphen"/>ſilvania,</hi> by a modeſt Computa<g ref="char:EOLhyphen"/>tion to be worth ſome Hun<g ref="char:EOLhyphen"/>dreds, (if not Thouſands) of Pounds. The <hi>Bakers</hi> make as White Bread as any in <hi>London,</hi> and as for their Rule, it is the ſame in all Parts of the World that I have been in. The <hi>But<g ref="char:EOLhyphen"/>chers</hi> for killing a Beaſt, have Five
+<pb n="31" facs="tcp:99589:21"/> Shillings and their Diet; and they may buy a good fat large Cow for Three Pounds, or there<g ref="char:EOLhyphen"/>abouts. The <hi>Brewers</hi> fell ſuch Beer as is equal in Strength to that in <hi>London,</hi> half Ale and half Stout for Fifteen Shillings <hi>per</hi> Barrel; and their Beer hath a better Name, that is, is in more eſteem than <hi>Engliſh Beer</hi> in <hi>Bar<g ref="char:EOLhyphen"/>badoes,</hi> and is ſold for a higher Price there. And for <hi>Silver-Smiths,</hi> they have between Half a Crown and Three Shillings an Ounce for working their Silver, and for Gold equivalent. <hi>Pla<g ref="char:EOLhyphen"/>ſterers</hi> have commonly Eighteen Pence <hi>per</hi> Yard for <hi>Plaſtering. Laſt-Makers</hi> have Sixteen Shil<g ref="char:EOLhyphen"/>lings <hi>per</hi> dozen for their Laſts. And <hi>Heel-Makers</hi> have Two Shillings a dozen for their Heels. <hi>Wheel</hi> and <hi>Mill-Wrights, Joyners, Braſiers, Pewterers, Dyers, Fullers, Comb-Makers, Wyer-Drawers, Cage-Makers, Card-Makers, Painters, Cutlers, Rope-Makers, Carvers, Block-Makers, Turners, Button-Makers,
+<pb n="32" facs="tcp:99589:22"/> Hair</hi> and <hi>Wood Sieve-Makers, Bodies-Makers, Gun-Smiths, Lock-Smiths, Nailers, File-Cuters, Skinners, Furriers, Glovers, Patten-Makers, Watch-Makers, Clock-Makers, Sadlers, Coller-Makers, Barbers, Printers, Book-Binders,</hi> and all other <hi>Trades-Men,</hi> their Gains and Wages are about the ſame proportion as the fore<g ref="char:EOLhyphen"/>mentioned Trades in their Ad<g ref="char:EOLhyphen"/>vancements, as to what they have in <hi>England.</hi>
+                  </p>
+                  <p>Of <hi>Lawyers</hi> and <hi>Phyſicians</hi> I ſhall ſay nothing, becauſe this Countrey is very Peaceable and Healty; long may it ſo continue and never have occaſion for the Tongue of the one, nor the Pen of the other, both equally deſtruc<g ref="char:EOLhyphen"/>tive to Mens Eſtates and Lives; beſides forſooth, they, Hang-Man like, have a Licenſe to Mur<g ref="char:EOLhyphen"/>der and make Miſchief. <hi>Labour<g ref="char:EOLhyphen"/>ing-Men</hi> have commonly here, between 14 and 15 Pounds a Year, and their Meat, Drink,
+<pb n="33" facs="tcp:99589:22"/> Waſhing and Lodging; and by the Day their Wages is general<g ref="char:EOLhyphen"/>ly between Eighteen Pence and Half a Crown, and Diet alſo; But in Harveſt they have uſual<g ref="char:EOLhyphen"/>ly between Three and Four Shil<g ref="char:EOLhyphen"/>ling each Day, and Diet. The <hi>Maid Servants Wages</hi> is common<g ref="char:EOLhyphen"/>ly betwixt Six and Ten Pounds <hi>per Annum,</hi> with very good Accommodation. And for the <hi>Women</hi> who get their Livelihood by their own Induſtry, their Labour is very dear, for I can buy in <hi>London</hi> a Cheeſe-Cake for Two Pence, bigger than theirs at that price, when at the ſame time their Milk is as cheap as we can buy it in <hi>London,</hi> and their Flour cheaper by one half.</p>
+                  <p>Corn and Fleſh, and what elſe ſerves Man for Drink, Food and Rayment, is much cheaper here than in <hi>England,</hi> or elſewhere; but the chief rea<g ref="char:EOLhyphen"/>ſon why Wages of Servants of all ſorts is much higher here
+<pb n="34" facs="tcp:99589:23"/> than there, ariſes from the great Fertility and Produce of the Place; beſides, if theſe large Stipends were refuſed them, they would quickly ſet up for themſelves, for they can have Proviſion very cheap, and Land for a very ſmall matter, or next to nothing in compariſon of the Purchace of Lands in <hi>England;</hi> and the Farmers there, can bet<g ref="char:EOLhyphen"/>ter afford to give that great Wages than the Farmers in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> can, for ſeveral Reaſons ve<g ref="char:EOLhyphen"/>ry obvious.</p>
+                  <p>As Firſt, their Land coſts them (as I ſaid but juſt now) little or nothing in compariſon, of which the Farmers com<g ref="char:EOLhyphen"/>monly will get twice the en<g ref="char:EOLhyphen"/>creaſe of Corn for every Bu<g ref="char:EOLhyphen"/>ſhel they ſow, that the Farmers in <hi>England</hi> can from the richeſt Land they have.</p>
+                  <pb n="35" facs="tcp:99589:23"/>
+                  <p>In the Second place, they have conſtantly good price for their Corn, by reaſon of the great and quick vent into <hi>Barbadoes</hi> and other Iſlands; through which means <hi>Silver</hi> is become more plentiful than here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> conſidering the Number of People, and that cauſes a quick Trade for both Corn and Cattle; and that is the reaſon that Corn differs now from the Price formerly, elſe it would be at half the Price it was at then; for a Brother of mine (to my own particular knowledge) ſold within the compaſs of one Week, about One Hundred and Twen<g ref="char:EOLhyphen"/>ty fat Beaſts, moſt of them good handſom large Oxen.</p>
+                  <p>Thirdly, They pay no <hi>Tithes,</hi> and their <hi>Taxes</hi> are inconſidera<g ref="char:EOLhyphen"/>ble; the Place is free for all Per<g ref="char:EOLhyphen"/>ſuaſions, in a Sober and Civil way; for the Church of <hi>England</hi> and the <hi>Quakers</hi> bear equal Share
+<pb n="36" facs="tcp:99589:24"/> in the Government. They live Friendly and Well together; there is no Perſecution for Re<g ref="char:EOLhyphen"/>ligion, nor ever like to be; 'tis this that knocks all Commerce on the Head, together with high Impoſts, ſtrict Laws, and cramp<g ref="char:EOLhyphen"/>ing Orders. Before I end this Paragraph, I ſhall add another Reaſon why Womens Wages are ſo exorbitant; they are not yet very numerous, which makes them ſtand upon high Terms for their ſeveral Services, in <hi>Sempſtering, Waſhing, Spinning, Knitting, Sewing,</hi> and in all the other parts of their Imploy<g ref="char:EOLhyphen"/>ments; for they have for Spin<g ref="char:EOLhyphen"/>ning either Worſted or Linen, Two Shillings a Pound, and commonly for Knitting a very Courſe pair of Yarn Stockings, they have half a Crown a pair; moreover they are uſually Mar<g ref="char:EOLhyphen"/>ry'd before they are Twenty Years of Age, and when once in that Nooſe, are for the moſt part a little uneaſie, and make
+<pb n="37" facs="tcp:99589:24"/> their Husbands ſo too, till they procure them a Maid Servant to bear the burden of the Work, as alſo in ſome meaſure to wait on them too.</p>
+                  <p>It is now time to return to the City of <hi>Brotherly-Love</hi> (for ſo much the <hi>Greek</hi> Word or Name <hi>Philadelphia</hi> imports) which though at preſent ſo ob<g ref="char:EOLhyphen"/>ſcure, that neither the <hi>Map-Makers,</hi> nor <hi>Geographers</hi> have ta<g ref="char:EOLhyphen"/>ken the leaſt notice of her, tho ſhe far exceeds her Name<g ref="char:EOLhyphen"/>ſake of <hi>Lydia,</hi> 
+                     <note n="*" place="margin">
+                        <hi>Thirty</hi> German <hi>Miles from</hi> Smyrna.</note> (having above Two Thouſand Noble Houſes for her Five Hundred Ordinary) or <hi>Celiſia,</hi> or <hi>Coeleſyria;</hi> yet in a very ſhort ſpace of time ſhe will; in all probability, make a a fine Figure in the World, and be a moſt Celebrated <hi>Emporeum.</hi> Here is lately built a Noble <hi>Town-Houſe</hi> or <hi>Guild-Hall,</hi> alſo a Handſom <hi>Market-Houſe,</hi> and a convenient <hi>Priſon.</hi> The Num<g ref="char:EOLhyphen"/>ber of Chriſtians both Old and
+<pb n="38" facs="tcp:99589:25"/> Young Inhabiting in that Coun<g ref="char:EOLhyphen"/>trey, are by a Modeſt Compu<g ref="char:EOLhyphen"/>tation, adjudged to amount to above Twenty Thouſand.</p>
+                  <p>The Laws of this Countrey, are the ſame with thoſe in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> our Conſtitution being on the ſame Foot: Many Diſputes and Differences are determined and compoſed by Arbitration; and all Cauſes are decided with great Care and Expedition, be<g ref="char:EOLhyphen"/>ing concluded (generally) at fur<g ref="char:EOLhyphen"/>theſt at the Second Court, unleſs they happen to be very Nice and Difficult Caſes; under Forty Shil<g ref="char:EOLhyphen"/>lings any one Juſtice of the Peace has Power to Try the Cauſe. Thieves of all ſorts, are oblig'd to reſtore four fold after they have been Whipt and Impri<g ref="char:EOLhyphen"/>ſon'd, according to the Nature of their Crime; and if they be not of Ability to reſtore four fold, they muſt be in Servitude till 'tis ſatisfied. They have Curious Wharfs, as alſo ſeveral
+<pb n="39" facs="tcp:99589:25"/> large and fine Timber-Yards, both at <hi>Philadelphia,</hi> and <hi>New-Caſtle,</hi> eſpecially at the <hi>Metropo<g ref="char:EOLhyphen"/>lis,</hi> before <hi>Robert Turner</hi>'s Great and Famous Houſe, where are built Ships of conſiderable Burthen; they Cart their Goods from that Wharf into the City of <hi>Philadelphia,</hi> under an Arch, over which part of the Street is built, which is called <hi>Cheſnut-Street-Wharf,</hi> beſides other <hi>Wharfs,</hi> as <hi>High-Street Wharf, Mulberry-Street Wharf,</hi> and <hi>Vine-Sreet Wharf,</hi> and all thoſe are Com<g ref="char:EOLhyphen"/>mon Wharfs; and likewiſe there are very pleaſant Stairs, as <hi>Trus</hi> and <hi>Carpenter-Stairs,</hi> beſides ſeveral others. There are above Thirty Carts belonging to that City, Four or Five Horſes to each. There is like<g ref="char:EOLhyphen"/>wiſe a very convenient Wharf called <hi>Carpenter</hi>'s <hi>Wharf,</hi> which hath a fine neceſſary <hi>Crain</hi> be<g ref="char:EOLhyphen"/>longing to it, with ſuitable <hi>Granaries,</hi> and <hi>Store-Houſes.</hi> A Ship of Two Hundred Tun may
+<pb n="40" facs="tcp:99589:26"/> load and unload by the ſide of it, and there are other Wharfs (with <hi>Magazines</hi> and <hi>Ware-Houſes)</hi> which front the City all along the River, as alſo a Curious and Commodious <hi>Dock</hi> with a <hi>Draw-Bridge</hi> to it, for the convenient Reception of Veſſels; where have been built ſome Ships of Two or Three Hundred Tuns each: They have very Stately Oaks to build Ships with, ſome of which are between Fifty and Sixty Foot long, and clear from Knots, being very ſtraight and well Grain'd. In this famous City of <hi>Philadelphia</hi> there are ſe<g ref="char:EOLhyphen"/>veral <hi>Rope-Makers,</hi> who have large and curious <hi>Rope-Walks</hi> e<g ref="char:EOLhyphen"/>ſpecially one <hi>Joſeph Wilcox.</hi> Al<g ref="char:EOLhyphen"/>ſo Three or Four Spacious <hi>Malt-Houſes,</hi> as many large <hi>Brew-Houſes,</hi> and many handſom <hi>Bake-Houſes</hi> for Publick Uſe.</p>
+                  <p>In the ſaid City are ſeveral good <hi>Schools of Learning</hi> for Youth, in order to the Attain<g ref="char:EOLhyphen"/>ment
+<pb n="41" facs="tcp:99589:26"/> of <hi>Arts</hi> and <hi>Sciences,</hi> as al<g ref="char:EOLhyphen"/>ſo <hi>Reading, Writing,</hi> &amp;c. Here is to be had on any Day in the Week, <hi>Tarts, Pies, Cakes,</hi> &amp;c. We have alſo ſeveral <hi>Cooks-Shops,</hi> both <hi>Roaſting</hi> and <hi>Boyling,</hi> as in the City of <hi>London; Bread, Beer, Beef,</hi> and <hi>Pork,</hi> are ſold at any time much cheaper than in <hi>England</hi> (which ariſes from their Plenty) our Wheat is very white and clear from Tares, making as good and white Bread as any in <hi>Europe.</hi> Happy Bleſſings, for which we owe the higheſt Grati<g ref="char:EOLhyphen"/>tude to our Plentiful Provider, the great Creator of Heaven and Earth. The <hi>Water-Mills</hi> far ex<g ref="char:EOLhyphen"/>ceed thoſe in <hi>England,</hi> both for quickneſs and grinding good Meal, their being great choice of good Timber, and earlier Corn than in the aforeſaid Place, they are made by one <hi>Peter Deal,</hi> a Fa<g ref="char:EOLhyphen"/>mous and Ingenious Workman, eſpecially for inventing ſuch like Machines.</p>
+                  <pb n="42" facs="tcp:99589:27"/>
+                  <p>All ſorts of very good <hi>Paper</hi> are made in the <hi>German-Town;</hi> as alſo very fine <hi>German Linen,</hi> ſuch as no Perſon of Quality need be aſham'd to wear; and in ſeveral places they make very good <hi>Druggets, Crapes, Camblets,</hi> and <hi>Serges,</hi> beſides other <hi>Woollen Cloathes,</hi> the Manufacture of all which daily improves: And in moſt parts of the Countrey there are many Curious and Spacious Buildings, which ſeveral of the <hi>Gentry</hi> have erected for their Country-Houſes. As for the Fruit-Trees they Plant, they ar<g ref="char:EOLhyphen"/>rive at ſuch Perfection, that they bear in a little more than half the time that they com<g ref="char:EOLhyphen"/>monly do in <hi>England.</hi>
+                  </p>
+                  <p>The <hi>Chriſtian Children</hi> born here are generally <hi>well-favoured,</hi> and <hi>Beautiful</hi> to behold; I ne<g ref="char:EOLhyphen"/>ver knew any come into the World with the leaſt blemiſh on any part of its Body, being in the general, obſerv'd to be <hi>better Natur'd, Milder,</hi> and more <hi>ten<g ref="char:EOLhyphen"/>der
+<pb n="43" facs="tcp:99589:27"/> Hearted</hi> than thoſe born in <hi>England.</hi>
+                  </p>
+                  <p>There are very fine and de<g ref="char:EOLhyphen"/>lightful <hi>Gardens</hi> and <hi>Orchards,</hi> in moſt parts of this Countrey; but <hi>Edward Shippey</hi> (who lives near the Capital City) has an Orchard and Gardens adjoyning to his Great Houſe that equa<g ref="char:EOLhyphen"/>lizes (if not exceeds) any I have ever ſeen, having a very famous and pleaſant Summer-Houſe e<g ref="char:EOLhyphen"/>rected in the middle of his ex<g ref="char:EOLhyphen"/>traordinary fine and large Gar<g ref="char:EOLhyphen"/>den abounding with <hi>Tulips, Pinks, Carnations, Roſes,</hi> (of ſeveral ſorts) <hi>Lilies,</hi> not to mention thoſe that grow wild in the Fields.</p>
+                  <p>Reader, what I have here written, is not a <hi>Fiction, Flam, Whim,</hi> or any ſiniſter <hi>Deſign,</hi> either to impoſe upon the Ignorant, or Credulous, or to curry Favour with the Rich and Mighty, but in meer Pity and
+<pb n="44" facs="tcp:99589:28"/> pure Compaſſion to the Num<g ref="char:EOLhyphen"/>bers of Poor Labouring Men, Women, and Children in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> half ſtarv'd, viſible in their meagre looks, that are continual<g ref="char:EOLhyphen"/>ly wandering up and down looking for Employment with<g ref="char:EOLhyphen"/>out finding any, who here need not lie idle a moment, nor want due Encouragement or Reward for their Work, much leſs Va<g ref="char:EOLhyphen"/>gabond or Drone it about. Here are no Beggars to be ſeen (it is a Shame and Diſgrace to the State that there are ſo many in <hi>England)</hi> nor indeed have any here the leaſt Occaſion or Temp<g ref="char:EOLhyphen"/>tation to take up that Scandalous Lazy Life.</p>
+                  <p>Jealouſie among Men is here very rare, and Barrenneſs among Women hardly to be heard of, nor are old Maids to be met with; for all commonly Marry before they are Twenty Years of Age, and ſeldom any young
+<pb n="45" facs="tcp:99589:28"/> Married Woman but hath a Child in her Belly, or one upon her Lap.</p>
+                  <p>What I have deliver'd con<g ref="char:EOLhyphen"/>cerning this <hi>Province,</hi> is indiſ<g ref="char:EOLhyphen"/>putably true, I was an Eye-Wit<g ref="char:EOLhyphen"/>neſs to it all, for I went in the firſt Ship that was bound from <hi>England</hi> for that Countrey, ſince it received the Name of <hi>Penſil<g ref="char:EOLhyphen"/>vania,</hi> which was in the Year 1681. The Ship's Name was the <hi>John</hi> and <hi>Sarah</hi> of <hi>London, Henry Smith</hi> Commander. I have declin'd giving any Ac<g ref="char:EOLhyphen"/>count of ſeveral things which I have only heard others ſpeak of, becauſe I did not ſee them my ſelf, for I never held that way infallible, to make Reports from <hi>Hear-ſay.</hi> I ſaw the firſt Cellar when it was digging for the uſe of our Governour <hi>Will. Penn.</hi>
+                  </p>
+                  <pb n="46" facs="tcp:99589:29"/>
+                  <p>I ſhall now haſte to a Con<g ref="char:EOLhyphen"/>cluſion, and only hint a little concerning the <hi>Natives</hi> or <hi>Abo<g ref="char:EOLhyphen"/>rigines,</hi> their <hi>Perſons, Language, Manners, Religion</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment;</hi> Of <hi>Perſon</hi> they are ordi<g ref="char:EOLhyphen"/>narily Tall, Straight, well-turn'd, and true Proportion'd; their Tread ſtrong and clever, gene<g ref="char:EOLhyphen"/>rally walking with a lofty Chin. Of Complexion <hi>Black,</hi> but by deſign, <hi>Gypſie-like,</hi> greaſing them<g ref="char:EOLhyphen"/>ſelves with Bears-Fat Clarified, and uſing no defence againſt the Injuries of the <hi>Sun</hi> and <hi>Wea<g ref="char:EOLhyphen"/>ther,</hi> their Skins fail not to be Swarthy. Their <hi>Eyes</hi> are ſmall and black. <hi>Thick Lips and flat Noſes</hi> ſo frequent with <hi>Negroes</hi> and <hi>Eaſt Indians,</hi> are rare with them. They have Comely Faces and Tolerable Complexions, ſome of their <hi>Noſes</hi> having a riſe like the <hi>Roman.</hi>
+                  </p>
+                  <pb n="47" facs="tcp:99589:29"/>
+                  <p>Their <hi>Language</hi> is Lofty and Elegant, but not Copious; <hi>One</hi> Word ſerveth in the ſtead of <hi>Three,</hi> imperfect and ungram<g ref="char:EOLhyphen"/>matical, which defects are ſup<g ref="char:EOLhyphen"/>ply'd by the Underſtanding of the Hearers. <hi>Sweet,</hi> of <hi>Noble Sound</hi> and <hi>Accent.</hi> Take here a Specimen.</p>
+                  <p>
+                     <q rend="italic">
+                        <p>Hodi hita nee huska a peechi, nee, machi
+<lb/>
+                           <hi>Penſilvania </hi> huska dogwachi, ke<g ref="char:EOLhyphen"/>ſhow a peechi
+<lb/>Nowa, huska hayly, Chetena koon peo.</p>
+                     </q> Thus in <hi>Engliſh.</hi>
+                     <q>
+                        <p>Farewel Friend, I will very quick<g ref="char:EOLhyphen"/>ly go to
+<lb/>
+                           <hi>Penſilvania,</hi> very cold Moon will come preſently,
+<lb/>And very great hard froſts will come quickly.</p>
+                     </q>
+                  </p>
+                  <pb n="48" facs="tcp:99589:30"/>
+                  <p>I might Treat largely of their <hi>Cuſtoms</hi> and <hi>Manners,</hi> but that will not agree with my pro<g ref="char:EOLhyphen"/>poſed Brevity.</p>
+                  <p>As ſoon as their Children are born, they waſh them in cold <hi>Water,</hi> eſpecially in <hi>cold Weather.</hi> To harden and embolden them, they plunge them in the River; they find their Feet early, uſual<g ref="char:EOLhyphen"/>ly at Nine Months they can go. The Boys Fiſh till Fifteen, then Hunt, and having given proof of their Manhood, by a large return of Skins, they may Mar<g ref="char:EOLhyphen"/>ry (elſe 'tis aſhame to think of a Wife) which is uſually at the Age of Seventeen or Eighteen; the Girls ſtay with their Mothers, and help to hoe the Ground, Plant Corn, bear Burdens, and Marry about Thirteen or Four<g ref="char:EOLhyphen"/>teen.</p>
+                  <pb n="49" facs="tcp:99589:30"/>
+                  <p>Their Houſes are <hi>Matts,</hi> or <hi>Barks</hi> of <hi>Trees</hi> ſet on Poles, Barn-like, not higher than a Man, ſo not expos'd to Winds. They lie upon <hi>Reeds</hi> or <hi>Graſs.</hi> In <hi>Travel</hi> they lodge in the <hi>Woods</hi> about a great Fire, with the Mantle of Duffils they wear wrapt about them, and a few Boughs ſtuck round them.</p>
+                  <p>They live chiefly on <hi>Maze,</hi> or <hi>Indian Corn</hi> roſted in the Aſhes, ſometimes beaten and boyl'd with Water, called <hi>Homine.</hi> They have Cakes, not unpleaſant; alſo Beans and Peaſe, which Nouriſh much, but the Woods and Ri<g ref="char:EOLhyphen"/>vers afford them their Proviſion; they eat Morning and Evening; their Seats and Tables are the Ground; they are reſerv'd, apt to reſent and retain long: Their Women are Chaſte (at leaſt af<g ref="char:EOLhyphen"/>ter Marriage) and when with Child, will not admit of their
+<pb n="50" facs="tcp:99589:31"/> Husbands Embraces any more till Deliver'd. Exceeding Libe<g ref="char:EOLhyphen"/>ral and Generous; Kind and Affable; uneaſie in Sickneſs, to remedy which, they drink a De<g ref="char:EOLhyphen"/>coction of Roots in Spring-Wa<g ref="char:EOLhyphen"/>ter, forbearing Fleſh, which if they happen to eat, it muſt be the Female; they commonly bury their Kettles and part of their Goods with their Friends when they die, ſuſpecting (poor Souls) they ſhall make uſe of them again at the Reſurrection. They Mourn a whole Year, but it is no other than black<g ref="char:EOLhyphen"/>ing their Faces.</p>
+                  <p>Their Government is Mo<g ref="char:EOLhyphen"/>narchical, and Succeſſive, and ever of the Mothers (the ſureſt) ſide, to prevent a Spurious Iſſue. The Diſtaff (as in <hi>France)</hi> is ex<g ref="char:EOLhyphen"/>cluded the Regal Inheritance. Their Princes are Powerful, yet do nothing without the Con<g ref="char:EOLhyphen"/>currence of their Senate, or
+<pb n="51" facs="tcp:99589:31"/> Councils, conſiſting chiefly of Old, but mixt with Young Men; ſlow and deliberate, <hi>(Spaniard-</hi>like) in reſolving, naturally wiſe, and hardly to be out-witted. Their Puniſhments are Pecuniary. Murder may be aton'd for by Feaſts and Preſents, in Propor<g ref="char:EOLhyphen"/>tion to the Quality of the Offence, Perſon, or Sex injur'd; for if a Woman be kill'd, the Mulct is double, becauſe ſhe brings forth Children. They ſeldom quarel, when Sober, and if Boozy, (which of late they are more apt to be, having learn'd to drink, a little too much Rum of the Chriſtians, to their ſhame) they readily pardon it, alledging the Liquor is Criminal not the Man.</p>
+                  <p>The way of Worſhip the <hi>Sweeds</hi> uſe in this Countrey, is the <hi>Lutheran;</hi> the <hi>Engliſh</hi> have four ſorts of Aſſemblies or Religious Meetings here; as firſt, The
+<pb n="52" facs="tcp:99589:32"/> Church of <hi>England,</hi> who built a very fine Church in the City of <hi>Philadelphia</hi> in the Year 1695. Secondly, the <hi>Anabaptiſts:</hi> Third<g ref="char:EOLhyphen"/>ly, the <hi>Presbyterians,</hi> and two ſorts of <hi>Quakers</hi> (of all the moſt numerous by much) one Party held with <hi>George Keith;</hi> but whether both Parties will joyn together again in one I cannot tell, for that Gentleman hath alter'd his Judgment ſince he came to <hi>England,</hi> concerning his Church-Orders in <hi>Penſilvania,</hi> by telling and ſhewing them Precepts that were lawful in the time of the Law, but forbidden under the Goſpel to pay Tithes, or Miniſters to Preach for Hire, <hi>&amp;c.</hi> As alſo to ſprinkle Infants; and he tells the <hi>Presby<g ref="char:EOLhyphen"/>terian Miniſter,</hi> That he muſt go to the Pope of <hi>Rome</hi> for his Call, for he had no Scripture for it, and that Water-Baptiſm and the Outward Supper are not of the Nature of the Everlaſting
+<pb n="53" facs="tcp:99589:32"/> Goſpel; nor eſſential Parts of it, ſee his <hi>Truth Advanced</hi> page 173. He gives likewiſe a ſtrict Charge concerning plain Language and plain Habit, and that they ſhould not be concern'd in the compelling part of the World<g ref="char:EOLhyphen"/>ly Government, and that they ſhould ſet their <hi>Negroes</hi> at Liberty after ſome reaſonable time of Ser<g ref="char:EOLhyphen"/>vice; likewiſe, they ſhould not take the Advantage of the Law againſt one another, as to pro<g ref="char:EOLhyphen"/>cure them any Corporeal Pu<g ref="char:EOLhyphen"/>niſhment: Theſe Orders he tells his Followers, would make Di<g ref="char:EOLhyphen"/>ſtinction between them and <hi>Jews</hi> and Moral Heathens, this was in the Year 1693. in <hi>Pen<g ref="char:EOLhyphen"/>ſilvania:</hi> But now the Year 1697. ſince he came to <hi>England,</hi> his Judgment is chang'd, for he tells his Diſciples, that Water-Baptiſm is come in the room of Circumciſion; and by ſo doing, they would diſtinguiſh them<g ref="char:EOLhyphen"/>ſelves from either <hi>Jews, Pagans,</hi>
+                     <pb n="54" facs="tcp:99589:33"/> or Moral <hi>Heathens:</hi> He keeps his Meeting once a Week at <hi>Turners-Hall</hi> in <hi>Fill-Pot-Lane, London,</hi> on <hi>Sundays</hi> in the After<g ref="char:EOLhyphen"/>noon; he begins between Two and Three of the Clock and com<g ref="char:EOLhyphen"/>monly ends between Four and Five.</p>
+                  <p>Friendly Reader, by this thou mayſt ſee how wavering and mutable Men of great Outward Learning are, if the Truth of this be by any Body queſtion'd, let them look in the <hi>Creed,</hi> and the Paper againſt <hi>Chriſtians being concern'd in Worldly Government,</hi> and the <hi>Paper concerning Negroes,</hi> that was given forth by the Ap<g ref="char:EOLhyphen"/>pointment of the Meeting held by <hi>George Keith</hi> at <hi>Philip James</hi>'s Houſe in the City of <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi> in <hi>Penſilvania;</hi> and his <hi>Letter alſo in</hi> Mary-Land <hi>againſt the Presbyterian Catechiſm,</hi> Printed at <hi>Boſton</hi> in <hi>New-England</hi> in 1695. with the <hi>Anſwer</hi> to it bound up
+<pb n="55" facs="tcp:99589:33"/> together in one Book and in <hi>Truth Advanced,</hi> page 173. And for what relates to him ſince in <hi>England,</hi> let them look into the <hi>Quakers Argument Refuted, Con<g ref="char:EOLhyphen"/>cerning Water-Baptiſm and the Lord's Supper,</hi> page 70. And now Reader, I ſhall take my leave of thee, recommending thee with my own ſelf to the Directions of the Spirit of God in our Conſcience, and that will agree with all the Holy Scrip<g ref="char:EOLhyphen"/>tures in its right place; and when we find our ſelves ſo, we have no need to take any Thought or Care what any Body ſhall ſay of us.</p>
+                  <trailer>The End of the Hiſtory of <hi>Penſilvania.</hi>
+                  </trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:99589:34"/>
+                  <pb facs="tcp:99589:34"/>
+                  <p>An Hiſtorical Deſcription OF THE PROVINCE and COUNTRY OF <hi>Weſt-New-Jerſey</hi> IN AMERICA.</p>
+                  <p>A ſhort View of their <hi>Laws, Cuſtoms</hi> and <hi>Religion:</hi> As alſo the <hi>Temperament</hi> of the <hi>Air</hi> and <hi>Climate;</hi> The fatneſs of the <hi>Soil,</hi> with the vaſt Produce of <hi>Rice,</hi> &amp;c. The Improvement of their <hi>Lands</hi> (as in <hi>England</hi>) to <hi>Paſture, Meadows,</hi> &amp;c. Their making great quanti<g ref="char:EOLhyphen"/>ties of <hi>Pitch</hi> and <hi>Tar,</hi> as alſo <hi>Turpentine,</hi> which pro<g ref="char:EOLhyphen"/>ceeds from the <hi>Pine Trees,</hi> with <hi>Rozen</hi> as clear as <hi>Gum-Arabick,</hi> with particular Remarks upon their <hi>Towns, Fairs</hi> and <hi>Markets;</hi> with the great Plenty of <hi>Oyl</hi> and <hi>Whale-Bone</hi> made from the great number of <hi>Whales</hi> they yearly take: As alſo may other Profita<g ref="char:EOLhyphen"/>ble and New Improvements.</p>
+                  <p>Never made Publick till now.</p>
+                  <p>
+                     <hi>By</hi> GABRIEL THOMAS.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed in the Year 1698.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:99589:35"/>
+                  <pb facs="tcp:99589:35"/>
+                  <head>
+                     <hi>To the Right Honoura<g ref="char:EOLhyphen"/>ble Sir</hi> John Moor, <hi>Sir</hi> Thomas Lane, <hi>Knights and Alder<g ref="char:EOLhyphen"/>men of the City of</hi> London, <hi>and to the reſt of the Worthy Members of the</hi> Weſt-Jerſey <hi>Pro<g ref="char:EOLhyphen"/>prietors.</hi>
+                  </head>
+                  <opener>
+                     <salute>Worthy Friends,</salute>
+                  </opener>
+                  <p>TO whom can the Hiſtory of <hi>Weſt-Jerſey</hi> with more Ju<g ref="char:EOLhyphen"/>ſtice pertain, than to
+<pb facs="tcp:99589:36"/> you the Noble and Generous Proprietors.</p>
+                  <p>That was the chief Motive that inclin'd me to this Dedica<g ref="char:EOLhyphen"/>tion, which I hope will be the more ac<g ref="char:EOLhyphen"/>ceptable to you, be<g ref="char:EOLhyphen"/>cauſe the Account of that Country is ſo Sincere and Candid.</p>
+                  <p>I have endeavour'd (by ſetting forth) the great Encouragements there are) to perſuade
+<pb facs="tcp:99589:36"/> the Poor, the Idle, the Lazy, &amp; the Vagabonds of theſe Kingdoms and of <hi>Wales</hi> to haſten thi<g ref="char:EOLhyphen"/>ther, that they may live plentifully and happi<g ref="char:EOLhyphen"/>ly, and I doubt not but they will hearken to it, becauſe it is their true Intereſt. I have done my beſt endeavours to poſſeſs them and others of the great Fertility and Plenty in thoſe Parts, which I need not repeat to you, who muſt needs be well ac,
+<pb facs="tcp:99589:37"/> quainted with the State of that Place. That it may Flouriſh and mightily tend to your Advantage, as alſo to the Benefit of <hi>England,</hi> the hearty de<g ref="char:EOLhyphen"/>ſire of your Friend,</p>
+                  <closer>
+                     <signed>Gabriel Thomas.</signed>
+                  </closer>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:99589:37"/>
+                  <head>THE PREFACE TO THE READER.</head>
+                  <opener>
+                     <salute>Courteous Reader,</salute>
+                  </opener>
+                  <p>
+                     <hi>MY Chief Deſign in writing this ſhort Account of</hi> Weſt-New-Jerſey, <hi>is to inform all (but eſpe<g ref="char:EOLhyphen"/>cially the Poor) what Ample and Happy Live<g ref="char:EOLhyphen"/>lihoods People may gain
+<pb facs="tcp:99589:38"/> in thoſe Parts, whereby they may ſubſiſt very well without either Beg<g ref="char:EOLhyphen"/>ging or Stealing, for if they Steal, they are Whipt, and oblig'd to pay Four Fold; and if they are not of Ability to do that, they muſt abide in Ser<g ref="char:EOLhyphen"/>vitude till they have made Satisfaction to the injur'd Perſon: And if they ſhould be Lazy and turn to Beg, they will get nothing by that Baſe and Scandalous Imploy<g ref="char:EOLhyphen"/>ment; But if they be ſo
+<pb facs="tcp:99589:38"/> Poor that they have not of their own to ſupply their Wants and Neceſ<g ref="char:EOLhyphen"/>ſities, nor are able to Work, they will have no need to Beg, for Peo<g ref="char:EOLhyphen"/>ple out of their own free Compaſſion and pure Chari<g ref="char:EOLhyphen"/>ty will relieve them in their Neceſſities. Now if this were all, (though it is not) it wou'd be a ſuffi<g ref="char:EOLhyphen"/>cient Encouragement to the Idle, the Sloathful, and the Vagabonds of</hi> England, Scotland, <hi>and</hi> Ireland <hi>to haſten
+<pb facs="tcp:99589:39"/> thither, where beſides this, they have a fair pro<g ref="char:EOLhyphen"/>ſpect of getting conſide<g ref="char:EOLhyphen"/>rable Eſtates, at leaſt of living very Plenti<g ref="char:EOLhyphen"/>fully and Happily, which</hi> Medium <hi>of Life is far better than lingering out their Days ſo miſera<g ref="char:EOLhyphen"/>bly Poor and half Star<g ref="char:EOLhyphen"/>ved; or Whipping, Burning, and Hanging for Villanies, they will have little Temptation, nay or Inclination to per<g ref="char:EOLhyphen"/>petrate here. The</hi> French Refugees <hi>or</hi> Proteſtant
+<pb facs="tcp:99589:39"/> 
+                     <hi>People, wou'd ſoon find it their Intereſt to re<g ref="char:EOLhyphen"/>move thither, where they wou'd live far better than in</hi> Germany, Holland, Ireland <hi>or</hi> England. <hi>Written by one who ear<g ref="char:EOLhyphen"/>neſtly wiſheth thy Well<g ref="char:EOLhyphen"/>fare and Proſperity in the ways of the Lord, and then thou canſt not do amiſs in this World.</hi>
+                  </p>
+                  <closer>
+                     <signed>Gab. Thomas.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="tract">
+                  <pb facs="tcp:99589:40"/>
+                  <pb n="1" facs="tcp:99589:40"/>
+                  <head>THE HISTORY OF <hi>Weſt-New-Jerſey.</hi>
+                  </head>
+                  <p>
+                     <hi>WEſt-New-Jerſey</hi> lies between the La<g ref="char:EOLhyphen"/>titude of Forty, and Forty two Degrees; having the <hi>Main Sea</hi> on the South, <hi>Eaſt-Jerſey</hi> on
+<pb n="2" facs="tcp:99589:41"/> the North, <hi>Hudſon</hi>'s <hi>Bay</hi> on the Eaſt, and <hi>Penſilvania</hi> on the Weſt.</p>
+                  <p>The firſt Inhabitants of this Countrey were the <hi>In<g ref="char:EOLhyphen"/>dians,</hi> being ſuppoſed to be part of the Ten diſperſed Tribes of <hi>Iſrael;</hi> for indeed they are very like the <hi>Jews</hi> in their Perſons, and ſomething in their Practices and Worſhip, for they (as the <hi>Penſilvanian Indians)</hi> obſerve the <hi>New Moons</hi> with great Devotion, and Re<g ref="char:EOLhyphen"/>verence: And their firſt Fruits they offer, with their Corn and Hunting-Game they get in the whole Year, to a Falſe Deity or Sham-God, whom they muſt pleaſe, elſe (as they fancy) many Misfor<g ref="char:EOLhyphen"/>tunes will befal them, and great Injuries will be done them. When they bury their Dead, they put into the Ground with
+<pb n="3" facs="tcp:99589:41"/> them ſome Houſe-Utenſils, and ſome Money, (as Tokens of their Love and Affection) with other Things, expecting they ſhall have Occaſion for them again in the other World. And if a Perſon of Note dies very far from the Place of his own Reſidence they will carry his Bones home ſome conſide<g ref="char:EOLhyphen"/>rable time after, to be bu<g ref="char:EOLhyphen"/>ried there. They are alſo ve<g ref="char:EOLhyphen"/>ry curious, nay, even nice in preſerving and repairing the Graves of their Dead. They do not love to be asked twice their Judgment about one Thing. They are a People who generally delight much in Mirth, and are very ſtudious in obſerving the Vertues of <hi>Roots</hi> and <hi>Herbs,</hi> by which they cure themſelves of many Diſtempers in their Bo<g ref="char:EOLhyphen"/>dies, both internal or external. They will not ſuffer their <hi>Beards</hi> to grow; for they
+<pb n="4" facs="tcp:99589:42"/> will pluck the Hair off with their own Fingers as ſoon as they can get hold of it, hold<g ref="char:EOLhyphen"/>ing it great Deformity to have a Beard. They are very lo<g ref="char:EOLhyphen"/>ving to one another; for if three or four of them come in<g ref="char:EOLhyphen"/>to a Chriſtian's Houſe, and the Maſter of it happen to give one of them Victuals, and none to the reſt, he will divide it into equal Shares among them: And they are alſo very kind and civil to any of the Chri<g ref="char:EOLhyphen"/>ſtians; for I my ſelf have had Victuals cut by them in their Cabbins, before they took any for themſelves. Their chief Imployment is in Hunting, Fiſhing, and Fowling, and making <hi>Canows,</hi> or <hi>Indian</hi> Boats and Bowls, in all which Arts they are very dexterous and ingenious: Their Womens Bu<g ref="char:EOLhyphen"/>ſineſs chiefly conſiſts in plan<g ref="char:EOLhyphen"/>ting of <hi>Indian Corn,</hi> and pound<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:99589:42"/> it to Meal, in Mortars, with Peſtils, (as we beat our Spice) and make Bread, and dreſs their Victuals, which they perform very neatly and cleanlily. They alſo make <hi>Indian Mats, Ropes, Hats,</hi> and <hi>Baskets,</hi> (ſome of curious Workmanſhip) of their <hi>Hemp,</hi> which there grows wild, and Natural, in the Woods, in great Plenty. In ſhort, the Women are very ingenious in their ſeveral Imployments as well as the Men. Their young Maids are naturally very mo<g ref="char:EOLhyphen"/>deſt and ſhamefac'd: And their young Women when newly married, are very nice and ſhy, and will not ſuffer the Men to talk of any immodeſt or laſcivious Matters. Their Houſes are, for the moſt part, cover'd with <hi>Cheſnutt Bark,</hi> but very cloſe, and warm, inſomuch that no Rain can
+<pb facs="tcp:99589:43"/> go through. Their Age in Computation may be com<g ref="char:EOLhyphen"/>pared with the Chriſtians. Their <hi>wearing Habit</hi> is com<g ref="char:EOLhyphen"/>monly <hi>Deer-Skins,</hi> or <hi>Duffles.</hi> They don't allow of mention<g ref="char:EOLhyphen"/>ing the Name of a Friend after his Death; for at his Deceaſe, they make their Face black all over with black Lead; and when their Affairs go well with them, they paint their Faces with red Lead, it being a Token of their Joy, as the other is of their Grief. They are great Obſervers of the <hi>Weather</hi> by the <hi>Moon.</hi> They take great Delight in Cloaths of various Colours. And are ſo punctual that if any go from their firſt Offer or Bargain with them, it will be very difficult for that Par<g ref="char:EOLhyphen"/>ty to get any Dealings with them any more, or to have any farther Converſe with
+<pb n="7" facs="tcp:99589:43"/> them; And moreover it is worthy of Remark, that when a Company of them are got together, they never interrupt or contradict one another, 'till two of them have made an end of their Diſcourſe; for if never ſo many be in Compa<g ref="char:EOLhyphen"/>ny only two muſt diſcourſe at a time, and the reſt muſt keep Silence. The <hi>Engliſh</hi> and they live very peaceably, by reaſon the <hi>Engliſh</hi> ſatisfies them for their Land.</p>
+                  <p>As to the manner of their Language, it is high and lofty, with a Short Sentence. Their way of counting is by Tens, as to ſay Two Tens, Three Tens, Four Tens, Five Tens, <hi>&amp;c.</hi>
+                  </p>
+                  <p>I ſhall now proceed to ſhow ſomething of the manner and way of Diſcourſe that happens
+<pb n="8" facs="tcp:99589:44"/> between them and the Neighbour<g ref="char:EOLhyphen"/>ing Chriſtians that uſe to deal and traffick with them, or when they meet one another in the Woods accidentally, one a looking for his Cat<g ref="char:EOLhyphen"/>tel, and the other a Hun<g ref="char:EOLhyphen"/>ting the Wild Deer, or o<g ref="char:EOLhyphen"/>ther Game, by way of Queſtions and Anſwers. I ſhall put the <hi>Indian</hi> Tongue on one ſide of the Leaf, and the <hi>Engliſh</hi> juſt oppoſite. Their Diſcourſe is as followeth.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">The Indian Tongue.</cell>
+                           <cell role="label">The Engliſh of it.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Hi<g ref="char:EOLhyphen"/>tah takoman?</hi>
+                              </p>
+                              <p>Anſw. <hi>Ando<g ref="char:EOLhyphen"/>gowa nee weekin.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Friend, from whence com'ſt?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Yon<g ref="char:EOLhyphen"/>der.</p>
+                              <p>
+                                 <hi>Queſt.</hi> Where yonder?</p>
+                              <p>
+                                 <hi>Anſw.</hi> My Houſe.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Tony andogowa kee wee<g ref="char:EOLhyphen"/>kin?</hi>
+                              </p>
+                              <p>Anſw. <hi>Ar<g ref="char:EOLhyphen"/>waymouſe.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Where is thy Houſe?</p>
+                              <p>
+                                 <hi>Anſw. Arway<g ref="char:EOLhyphen"/>mouſe,</hi> which is the Name of an <hi>Indian</hi> Town.</p>
+                           </cell>
+                        </row>
+                        <pb n="9" facs="tcp:99589:44"/>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Keco kee hatah kee weekin?</hi>
+                              </p>
+                              <p>Anſw. <hi>Nee hatah huska wees youſe og huska chetena chaſe og huska orit che<g ref="char:EOLhyphen"/>kenip.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> What haſt got in thy Houſe?</p>
+                              <p>
+                                 <hi>Anſw.</hi> I have very fat Veni<g ref="char:EOLhyphen"/>ſon, and good ſtrong Skins, with very good Turkeys.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Chin<g ref="char:EOLhyphen"/>go kee beto nee chaſe og youſe etka chekenip.</hi>
+                              </p>
+                              <p>Anſw. <hi>Ha<g ref="char:EOLhyphen"/>lopa etka niſha kiſhquicka.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> When wilt thou bring me Skins and Veniſon, with Turkeys?</p>
+                              <p>
+                                 <hi>Anſw.</hi> To morrow, or two days hence.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Keco kee hata kee wee<g ref="char:EOLhyphen"/>kin?</hi>
+                              </p>
+                              <p>Anſw. <hi>Nee hata orit poonk og huska horit haloons etka ne<g ref="char:EOLhyphen"/>skee og march<g ref="char:EOLhyphen"/>kee ochqueon.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> What haſt got in thy Houſe?</p>
+                              <p>
+                                 <hi>Anſw.</hi> I have very fat Veni<g ref="char:EOLhyphen"/>ſon, and good ſtrong Skins, with very good Turkeys.</p>
+                           </cell>
+                        </row>
+                        <pb n="10" facs="tcp:99589:45"/>
+                        <row>
+                           <cell>
+                              <hi>(O huskia orit.)</hi>
+                           </cell>
+                           <cell>(Very well.)</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Kee namen neskec ka<g ref="char:EOLhyphen"/>bay og march<g ref="char:EOLhyphen"/>kec moos etka opeg megis?</hi>
+                              </p>
+                              <p>Anſw. <hi>Ma<g ref="char:EOLhyphen"/>ta namen megis nee namen ne<g ref="char:EOLhyphen"/>skec kabay un<g ref="char:EOLhyphen"/>dogwa tekany.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Did'ſt thou ſee black Horſes and red Cows, with white Sheep?</p>
+                              <p>
+                                 <hi>Anſw.</hi> I ſaw no Sheep: I did ſee black Horſes yonder in the Woods?</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Kee namen march<g ref="char:EOLhyphen"/>kec moos undo<g ref="char:EOLhyphen"/>gwa tekeny?</hi>
+                              </p>
+                              <p>Anſw. <hi>Mo<g ref="char:EOLhyphen"/>gy.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Did'ſt ſee red Cows yonder in the Woods?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Yes.</p>
+                           </cell>
+                        </row>
+                        <pb n="11" facs="tcp:99589:45"/>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Kee ſqua og enychan hatah?</hi>
+                              </p>
+                              <p>Anſw. <hi>Mo<g ref="char:EOLhyphen"/>gy.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Haſt thou a Wife and Children?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Yes.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Ka<g ref="char:EOLhyphen"/>cha hatah?</hi>
+                              </p>
+                              <p>Anſw. <hi>Neo.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> How many haſt?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Four.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Be<g ref="char:EOLhyphen"/>noingtid etka ſquatid?</hi>
+                              </p>
+                              <p>Anſw. <hi>Ni<g ref="char:EOLhyphen"/>ſha benointid og niſha ſquatid.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Boys or Girls?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Two Boys and two Girls.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Tong<g ref="char:EOLhyphen"/>tid enychan ha<g ref="char:EOLhyphen"/>tah?</hi>
+                              </p>
+                              <p>Anſw. <hi>Mo<g ref="char:EOLhyphen"/>gy.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> Haſt got a young Child?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Yes.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Etka arooſiſe?</hi>
+                              </p>
+                              <p>Anſw. <hi>Neo kiſhow.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> How old?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Four months.</p>
+                           </cell>
+                        </row>
+                        <pb n="12" facs="tcp:99589:46"/>
+                        <row>
+                           <cell>
+                              <p>Queſt. <hi>Etka arooſiſe kee?</hi>
+                              </p>
+                              <p>Anſw. <hi>Pele<g ref="char:EOLhyphen"/>nacheenckan ka<g ref="char:EOLhyphen"/>tingan arooſis.</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <p>
+                                 <hi>Queſt.</hi> How old art thou?</p>
+                              <p>
+                                 <hi>Anſw.</hi> Fifty years old.</p>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>In the next Place I ſhall give an account of their way in counting or numbering; which is as followeth.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">The <hi>Indian</hi> Counting.</cell>
+                           <cell role="label">The Engliſh to it.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kooty niſha nacha neo pele<g ref="char:EOLhyphen"/>nach Kootaſh ni<g ref="char:EOLhyphen"/>ſhaſh choeſh pe<g ref="char:EOLhyphen"/>skonk telen.</hi>
+                           </cell>
+                           <cell>One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Niſhinchkan nachinchkan neo<g ref="char:EOLhyphen"/>chinchkan pelen<g ref="char:EOLhyphen"/>chinchkan.</hi>
+                           </cell>
+                           <cell>Twenty, Thirty, Forty, Fifty, <hi>&amp;c.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="13" facs="tcp:99589:46"/>
+                  <list>
+                     <head>The Names of ſome of the <hi>Indians.</hi>
+                     </head>
+                     <item>Anachkooting,</item>
+                     <item>Buſſabenating,</item>
+                     <item>O<g ref="char:EOLhyphen"/>konycan,</item>
+                     <item>Potasko,</item>
+                     <item>Quindamen,</item>
+                     <item>La<g ref="char:EOLhyphen"/>mes,</item>
+                     <item>Alpoongan,</item>
+                     <item>Kohonk,</item>
+                     <item>Hiton,</item>
+                     <item>Temeny.</item>
+                  </list>
+                  <p>The <hi>Dutch</hi> and <hi>Sweeds</hi> in<g ref="char:EOLhyphen"/>form us that they are great<g ref="char:EOLhyphen"/>ly decreaſed in number to what they were when they came firſt into this Country: And the <hi>Indians</hi> themſelves ſay, that two of them die to e<g ref="char:EOLhyphen"/>very one Chriſtian that comes in here. Reader, I ſhall not in<g ref="char:EOLhyphen"/>ſiſt any farther upon this Subject, becauſe what is deficient or ſhort here, is inſerted already in the preceding Hiſtory of <hi>Pen<g ref="char:EOLhyphen"/>ſilvania;</hi> for the Natives both of that, as well as of this Coun<g ref="char:EOLhyphen"/>try, ſpeak the ſame Language, and live after the ſame manner;
+<pb n="14" facs="tcp:99589:47"/> for my chief aim, in the next place, is to acquaint thee how, and after what manner the Chriſtians live there And I hope I have pleaſed thee ſo far, as it may prove a means to encourage me to give a lar<g ref="char:EOLhyphen"/>ger Deſcription hereafter.</p>
+                  <p>The next who came there were the <hi>Dutch;</hi> which was between Forty and Fifty Years agoe, though they made but very little Improvement, only built Two or Three Houſes, upon an Iſland (called ſince by the <hi>Engliſh) Stacies-Iſland;</hi> and it remained ſo, till about the Year 1675. in which King <hi>Charles</hi> the Second (or the Duke of <hi>York</hi> (his Brother) gave the Countrey to <hi>Edward Billing,</hi> in whoſe time, one <hi>Major Fenwick</hi> went thither, with ſome others, and built a pretty <hi>Town,</hi> and call'd it
+<pb n="15" facs="tcp:99589:47"/> 
+                     <hi>Salam;</hi> and in a few Years after a Ship from <hi>London,</hi> and another from <hi>Hull,</hi> ſail'd thi<g ref="char:EOLhyphen"/>ther with more People, who went higher up into the Coun<g ref="char:EOLhyphen"/>trey, and built there a Town, and called it <hi>Burlington,</hi> which is now the chiefeſt Town in that Countrey, though <hi>Salam</hi> is the ancienteſt; and a fine <hi>Market-Town</hi> it is, having ſe<g ref="char:EOLhyphen"/>veral <hi>Fairs</hi> kept yearly in it; likewiſe well furniſhed with good ſtore of moſt Neceſſaries for humane Support, as <hi>Bread, Beer, Beef,</hi> and <hi>Pork;</hi> as alſo <hi>Butter</hi> and <hi>Cheeſe,</hi> of which they freight ſeve<g ref="char:EOLhyphen"/>ral Veſſels, and ſend them to <hi>Barbadoes,</hi> and other I<g ref="char:EOLhyphen"/>ſlands.</p>
+                  <p>There are very many fine <hi>ſtately Brick-Houſes</hi> built, and a <hi>commodious Dock</hi> for <hi>Veſſels</hi> to come in at, and they claim equal
+<pb n="16" facs="tcp:99589:48"/> Privilege with <hi>Burlington</hi> for the ſake of Antiquity; tho' that is the principal Place, by reaſon that the late Go<g ref="char:EOLhyphen"/>vernor <hi>Cox,</hi> who bought that Countrey of <hi>Edward Billing,</hi> en<g ref="char:EOLhyphen"/>couraged and promoted that Town chiefly, in ſettling his <hi>Agents</hi> and <hi>Deputy-Governors</hi> there, (the ſame Favours are conti<g ref="char:EOLhyphen"/>nued by the <hi>New-Weſt-Jerſey</hi> Society, who now manage Matters there) which brings their Aſſemblies and chief Courts to be kept there; and, by that means it is become a very famous Town, having a great many ſtately <hi>Brick-Houſes</hi> in it, (as I ſaid before) with a delicate great <hi>Market-Houſe,</hi> where they keep their Market: It hath a noble and <hi>ſpacious Hall</hi> over-head, where their <hi>Seſſions</hi> is kept, having the Priſon adjoining to it.</p>
+                  <pb n="17" facs="tcp:99589:48"/>
+                  <p>Likewiſe in the ſaid Town there are very many fine <hi>Wharfs</hi> and large <hi>Timber-Yards, Malt-Houſes, Brew-Houſes, Bake-Houſes;</hi> and moſt ſorts of Trades-Men, (whoſe Wages are upon the ſame Foot with the <hi>Pen<g ref="char:EOLhyphen"/>ſilvanians)</hi> viz. <hi>Cloath-Workers,</hi> who make very good <hi>Serges, Druggets, Crapes, Camblets,</hi> (part <hi>Silk or Worſted,</hi> and part <hi>Camels</hi> Hair) and good <hi>Pluſhes,</hi> with ſeveral other <hi>Woollen Cloathes,</hi> be<g ref="char:EOLhyphen"/>ſides <hi>Linnen.</hi>
+                  </p>
+                  <p>There are many Fair and Great Brick Houſes on the out<g ref="char:EOLhyphen"/>ſide of the Town which the Gentry have built there for their Countrey Houſes, beſides the Great and Stately Palace of <hi>John Tateham</hi> Eſq; which is pleaſant<g ref="char:EOLhyphen"/>ly Situated on the North ſide of the <hi>Town,</hi> having a very fine and delightful <hi>Garden</hi> and <hi>Or<g ref="char:EOLhyphen"/>chard</hi>
+                     <pb n="18" facs="tcp:99589:49"/> adjoyning to it, wherein is variety of <hi>Fruits, Herbs,</hi> and <hi>Flowers;</hi> as <hi>Roſes, Tulips, July-Flowers, Sun-Flowers</hi> (that open and ſhut as the <hi>Sun</hi> Riſes and Sets, thence taking their Name) <hi>Carnations,</hi> and many more; beſides abundance of Medicinal <hi>Roots Herbs, Plants,</hi> and <hi>Flowers</hi> found wild in the Fields.</p>
+                  <p>There are kept alſo in this Famous Town ſeveral Fairs every Year; and as for Pro<g ref="char:EOLhyphen"/>viſions, <hi>viz.</hi> Bread, Beer, Beef, Pork, Cheeſe, Butter, and moſt ſorts of Fruit here is great Plenty and very Cheap; all thoſe Com<g ref="char:EOLhyphen"/>modities are to be bought every Market-Day.</p>
+                  <p>A Ship of Four Hundred Tuns may Sail up to this <hi>Town</hi> in the River <hi>Delaware;</hi> for I my ſelf have been on Board a
+<pb n="19" facs="tcp:99589:49"/> Ship of that Burthen there: And ſeveral fine Ships and Veſſels (beſides Governour <hi>Cox</hi>'s own great Ship) have been built there.</p>
+                  <p>There are alſo two handſom Bridges to come in and out of the Town, called <hi>London</hi> and <hi>York-Bridges.</hi> The <hi>Town</hi> ſtands in an <hi>Iſland,</hi> the Tide flowing quite round about it. There are <hi>Water-Men</hi> who conſtantly Ply their Wherry Boats from that Town to the City of <hi>Philadel<g ref="char:EOLhyphen"/>phia</hi> in <hi>Penſilvania,</hi> and to other places. Beſides there is <hi>Glo<g ref="char:EOLhyphen"/>ceſter-Town,</hi> which is a very Fine and Pleaſant Place, being well ſtor'd with Summer Fruits, as <hi>Cherries, Mulberries,</hi> and <hi>Straw<g ref="char:EOLhyphen"/>berries,</hi> whither Young People come from <hi>Philadelphia</hi> in the Wherries to eat <hi>Straberries</hi> and <hi>Cream,</hi> within ſight of which City it is ſweetly Situated,
+<pb n="20" facs="tcp:99589:50"/> being but about three Miles diſtance from thence.</p>
+                  <p>There are ſeveral <hi>Meetings</hi> of <hi>Worſhip</hi> in this Country, <hi>viz.</hi> the <hi>Presbyterians, Quakers,</hi> and <hi>Anabaptiſts:</hi> Their Privilege as to Matter of <hi>Law,</hi> is the ſame both for <hi>Plaintiff</hi> and <hi>Defendant,</hi> as in <hi>England.</hi>
+                  </p>
+                  <p>The Air is very Clear, Sweet and Wholeſom; in the depth of Winter it is ſomething colder, and as much hotter in the heighth of Summer than in <hi>England.</hi> Commonly (with them) the Days differ two Hours in length from ours here. The longeſt Day in Summer is ſhorter by two Hours than the longeſt Day in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the ſhorteſt Day lon<g ref="char:EOLhyphen"/>ger by two Hours than with us here.</p>
+                  <pb n="21" facs="tcp:99589:50"/>
+                  <p>As for Corn, they have <hi>Wheat, Rye, Peaſe, Oates, Barley, Rice,</hi> &amp;c. in vaſt quantities: Alſo <hi>Indian-Corn, Peaſe</hi> and <hi>Beans,</hi> like<g ref="char:EOLhyphen"/>wiſe <hi>Engliſh Hemp</hi> and <hi>Flax,</hi> which proſpers there exceeding<g ref="char:EOLhyphen"/>ly. Eating Roots, <hi>Pumpkins, Caſhews, Water-Melons, Muskmel<g ref="char:EOLhyphen"/>lons, Cucumbers, Squaſhes, Carrots, Artichokes, Potatoes, Turnips, Gar<g ref="char:EOLhyphen"/>lick, Onions,</hi> and <hi>Leeks</hi> grow there in greater Plenty than in <hi>Enland.</hi> And for <hi>Herbs,</hi> they have <hi>Cabbages, Coleworts, Savoys, Lettice, Purſlane,</hi> and other Sal<g ref="char:EOLhyphen"/>lads in abundance; beſide <hi>Wild Herbs</hi> which are there very commom, as <hi>Penny-Royal, Mint, Muſtard, Sage, Rue, Tanſey,</hi> &amp;c. and likewiſe there are choice Phi<g ref="char:EOLhyphen"/>ſical Roots, as <hi>Saſſafras, Sarſa<g ref="char:EOLhyphen"/>parilla, Black-Snake-Root, Rattle-Snake Root,</hi> and <hi>Poake-Root,</hi> with divers others, which there is great ſtore of.</p>
+                  <pb n="22" facs="tcp:99589:51"/>
+                  <p>Of Fiſh, they have <hi>Whales, Stur<g ref="char:EOLhyphen"/>geon, Cod, Scale-Fiſh, Cole</hi> and <hi>Hake-Fiſh,</hi> large <hi>Mackeril, Flat-fiſh, Rock, Shadds, Cattes, Eels, Perch,</hi> and many other ſorts in pro<g ref="char:EOLhyphen"/>digious Shoals: And Wild-Wa<g ref="char:EOLhyphen"/>ter-Fowl, as <hi>Geeſe, Ducks, Swans, Divers,</hi> &amp;c. are very numerous, even beyond all expecta<g ref="char:EOLhyphen"/>tion. As to Land-Fowl, <hi>Tur<g ref="char:EOLhyphen"/>keys, Geeſe, Pheaſants, Partridges, Pigeons, Woodcocks, Blackbirds,</hi> &amp;c. they are there in extraordinary great abundance, and very large. There is alſo that uncommon and valuable Bird (being near the bigneſs of a Cuckoo) called the <hi>Mocking-bird</hi> (known, but not very well in <hi>England,</hi> being ſo very Nice and Tender, that they uſually die by the way) with ſeveral other Charm<g ref="char:EOLhyphen"/>ing and Curious Birds, too te<g ref="char:EOLhyphen"/>dious here to ſpecifie.</p>
+                  <pb n="23" facs="tcp:99589:51"/>
+                  <p>As to the Wild Vermin, There are <hi>Otters, Beavers, Foxes, Mush-Rats Minx's, Wild-Cats, Rackoons, Pollcats,</hi> and alſo that cunning Creature the <hi>Poſſom,</hi> particularly mention'd and diſtinguiſh'd in the an<g ref="char:EOLhyphen"/>nex'd <hi>Account</hi> of <hi>Penſilvania</hi> for its remarkable Qualities, whi<g ref="char:EOLhyphen"/>ther I refer the Reader, not in the leaſt being fond of <hi>Tauto<g ref="char:EOLhyphen"/>logy.</hi> This Creature is about the bigneſs of an <hi>Engliſh</hi> Cat, be<g ref="char:EOLhyphen"/>ing of a light gray colour. Like<g ref="char:EOLhyphen"/>wiſe there were ſome <hi>Wolves</hi> and <hi>Bears,</hi> but now they are very rare to be ſeen, by rea<g ref="char:EOLhyphen"/>ſon the <hi>Indians</hi> deſtroy them (as before). Alſo that ſtrange Creature the <hi>Flying Squirril,</hi> mention'd in the foregoing Book. There are great num<g ref="char:EOLhyphen"/>bers of <hi>Wild Deer,</hi> and <hi>Red Deer</hi> alſo; and theſe wild Crea<g ref="char:EOLhyphen"/>tures are free and common for
+<pb n="24" facs="tcp:99589:52"/> any to kill and take. And for Wild <hi>Fruits,</hi> there are <hi>Cheſnuts, Filberts, Hickery-Nuts, Grapes, Mulberries, Strawberries, Rasberries, Huckleberries,</hi> and <hi>Craneberries,</hi> with ſeveral ſorts of <hi>Plumbs,</hi> and all thoſe Fruits in great plenty being free for any Body to gather.</p>
+                  <p>Now I am a coming to the Planted Fruit-Trees, as <hi>Apples, Pears, Apricocks, Quinces, Plumbs, Cherries, Gooſeberries, Currants,</hi> and <hi>Peaches,</hi> from which laſt they diſtil a liquor as in <hi>Penſilvania,</hi> much like <hi>Rumm</hi> or <hi>Brandy,</hi> in the taſte; and all thoſe Trees will come to bear in a little more than half the time, they do in <hi>England,</hi> the Soil is ſo rich; they have great plenty of the aforementioned Fruits, which are exceeding delicious. Theſe, as alſo many other Fruits that come not to any pitch of Perfection in <hi>England,</hi> are the Natural Product of this Coun<g ref="char:EOLhyphen"/>try, which lies warmer, being
+<pb n="25" facs="tcp:99589:52"/> more befriended by the Sun's hot and glorious Beams, which without doubt is the chief Cauſe and true Reaſon, why the Fruit there ſo far ex<g ref="char:EOLhyphen"/>cells the <hi>Engliſh.</hi> They have likewiſe great Stocks of <hi>Horſes</hi> and <hi>Hogs,</hi> raiſed in the Woods; of the latter of which I have ſeen ſome of a Prodigious Weight that only fed there, their Horſes are very hardy, ſtrong, and of good Spirit for Labour or Tra<g ref="char:EOLhyphen"/>velling; they commonly go un<g ref="char:EOLhyphen"/>ſhod (which in many Years ſaves much Money). Their Plow-ſhears require but ſmall Reparation, wearing out but little. They <hi>Harrow</hi> their Ground with a <hi>Wooden-tyned-Harrow,</hi> and twice over does the buſineſs.</p>
+                  <p>Of <hi>Bees</hi> alſo they are well pro<g ref="char:EOLhyphen"/>vided, &amp; abound in <hi>Sheep</hi> naturally
+<pb n="26" facs="tcp:99589:53"/> very ſound, and that ſtand well, the Rot, Scab, Maggots, <hi>&amp;c.</hi> rare<g ref="char:EOLhyphen"/>ly invading them; they uſually bring forth two Lambs at once, and their Wooll is very fine, white, and thick; they have great Stocks of Cattle, as <hi>Cows, Oxen,</hi> &amp;c. Their <hi>Oxen</hi> com<g ref="char:EOLhyphen"/>monly weigh well.</p>
+                  <p>Tame Fowl there are (almoſt) incredible in numbers, <hi>viz. Geeſe, Turkeys, Hens,</hi> &amp;c.</p>
+                  <p>In this Country alſo is great Plenty of working <hi>Timber,</hi> as <hi>Oaks, Aſh, Cheſnuts, Pine, Cedar, Walnut, Poplar, Firr,</hi> and <hi>Maſts for Ships,</hi> with <hi>Pitch</hi> and <hi>Roſin,</hi> of great Uſe and much Benefit to the Countrey. Here are ſeveral good <hi>Navigable Ri<g ref="char:EOLhyphen"/>vers,</hi> beſides that famous Ri<g ref="char:EOLhyphen"/>ver <hi>Delaware</hi> (which I have mentioned elſewhere, and where the <hi>Tobacco</hi> is excellent) being
+<pb n="27" facs="tcp:99589:53"/> deep enough for Veſſels to come in: Firſt, <hi>Prince Moriſe</hi>'s <hi>River,</hi> where the <hi>Sweeds</hi> uſed to kill the <hi>Geeſe</hi> in great num<g ref="char:EOLhyphen"/>bers, for their Feathers (only) leaving their Carcaſſes behind them; <hi>Cohanſey</hi> River, by which they ſend great ſtore of <hi>Cedar</hi> to <hi>Philadelphia-</hi>City; <hi>Allaway-River; Salam-River,</hi> which runs by <hi>Salam-Town</hi> (of greateſt Antiquity;) <hi>Naman-River, Rack<g ref="char:EOLhyphen"/>coon-River,</hi> which had its Name from the great numbers of thoſe Creatures that always abound thereabouts; <hi>Old Man</hi>'s <hi>River; Manto-River; Wood<g ref="char:EOLhyphen"/>berry-River; Great Eggharbor River</hi> (up which a Ship of two or three hundred Tuns may ſail) which runs by the back part of the Country in<g ref="char:EOLhyphen"/>to the Main Sea; I call it back, becauſe the firſt Im<g ref="char:EOLhyphen"/>provement made by the Chri<g ref="char:EOLhyphen"/>ſtians, was <hi>Delawar River-ſide:</hi>
+                     <pb n="28" facs="tcp:99589:54"/> This Place is noted for good ſtore of <hi>Corn, Horſes, Cows, Sheep, Hogs,</hi> &amp;c. the Lands thereabouts being much im<g ref="char:EOLhyphen"/>prov'd, and built upon: <hi>Little Egg-Harbor-Creek,</hi> which take their Names from the great abundance of Eggs, which the <hi>Swans, Geeſe, Ducks,</hi> and other <hi>wild Fowls</hi> on thoſe Rivers lay thereabouts: <hi>Tim<g ref="char:EOLhyphen"/>ber-River,</hi> alias <hi>Gloceſter-</hi>River, which hath its Name (alſo) from the great quantity of curi<g ref="char:EOLhyphen"/>ous <hi>Timber,</hi> which they ſend in great Floats to <hi>Philadelphia,</hi> a City in <hi>Penſilvania,</hi> as <hi>Oaks, Pines, Cheſnut, Aſh,</hi> and <hi>Ce<g ref="char:EOLhyphen"/>dars.</hi> This River runs down by <hi>Gloceſter-Town,</hi> which is the <hi>Shire-Town;</hi> And <hi>Newton-Ri<g ref="char:EOLhyphen"/>ver,</hi> that runs by <hi>Newton; Coo<g ref="char:EOLhyphen"/>per-River; Penſokin-River; Nor<g ref="char:EOLhyphen"/>thampton-River,</hi> with ſeveral o<g ref="char:EOLhyphen"/>thers, at a convenient diſtance upon the Sea, the Shores
+<pb n="29" facs="tcp:99589:54"/> whereof are generally deep and bold) of leſs Note, as <hi>VViſſahiſ<g ref="char:EOLhyphen"/>konk-River,</hi> that runs down into the great <hi>River Delaware,</hi> by <hi>Burlington.</hi> The Countrey inhabited by the <hi>Chriſtians</hi> is divided into four Parts or <hi>Counties,</hi> tho' the Tenth part of it is not yet peopled; 'Tis far cheaper living there for Eat<g ref="char:EOLhyphen"/>ables than here in <hi>England;</hi> and either Men or Women that have a Trade, or are Labourers, can, if induſtrious, get near three times the Wages they com<g ref="char:EOLhyphen"/>monly earn in <hi>England.</hi>
+                  </p>
+                  <p>Courteous Reader, As yet I have given thee no Account of <hi>Eaſt-Jerſey,</hi> becauſe I never was there, ſo in reality can<g ref="char:EOLhyphen"/>not properly or pertinently ſpeak to that Matter. I will not pretend to impoſe any thing on the World, but have all
+<pb n="30" facs="tcp:99589:55"/> along, and ſhall ſtill declare nothing but Verity; therefore one Word of that by and by. I might have given thee a much larger Account of this Coun<g ref="char:EOLhyphen"/>trey, and have ſtretch'd this (now) Pocket Volume to an extraordinary Bulk and Size; and yet without ſtraining or deviating in the leaſt from the Principles of my Profeſſion, which are Truth it ſelf. I have no Plot in my Pate, or deep Deſign, no, not the leaſt ex<g ref="char:EOLhyphen"/>pectation of gaining any thing by them that go thither, or loſing by thoſe who ſtay here. My End chiefly in Writing, nay, indeed my great Aim, is to inform the People of <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> and <hi>Ireland</hi> in general, but particularly the Poor, who are begging, or near it, or ſtar<g ref="char:EOLhyphen"/>ving, or hard by it (as I be<g ref="char:EOLhyphen"/>fore took notice in my Pre<g ref="char:EOLhyphen"/>face) to encourage them (for
+<pb n="31" facs="tcp:99589:55"/> their own Good, and for the Honour and Benefit of their Native Countrey, to whom they are now a Scandal and Diſgrace; and whoſe <hi>Milk</hi> and <hi>Honey</hi> theſe <hi>Drones</hi> eat up, and are beſides a heavy Burden to the Commonwealth, in the Taxes paid by every Pariſh in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. to ſupport them.</p>
+                  <p>Law-Cauſes are here (as in <hi>Penſilvania)</hi> ſpeedily determi<g ref="char:EOLhyphen"/>ned, in the ſecond Court at leaſt, unleſs in ſome difficult Buſineſs. One Juſtice of the Peace hath Power to try a Cauſe, and give Judgment there<g ref="char:EOLhyphen"/>in, if the Original Debt be under forty Shillings. And for Thieves and Robbers (as I hin<g ref="char:EOLhyphen"/>ted before in the Preface) they muſt reſtore fourfold; which, if they are not able to do, they muſt work hard till the in<g ref="char:EOLhyphen"/>jured Perſon is ſatisfied.</p>
+                  <pb n="32" facs="tcp:99589:56"/>
+                  <p>I ſhall conclude with a Word or two on <hi>New-Eaſt-Jerſey.</hi> This Countrey is exceeding fruitful in <hi>Cattel,</hi> of which I have ſeen great numbers brought from thence, <hi>viz. Oxen, Cows, Sheep, Hogs,</hi> and <hi>Horſes,</hi> to <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi> the Capital of <hi>Penſilvania.</hi> The chiefeſt Manufactory (be<g ref="char:EOLhyphen"/>ſides <hi>Engliſh</hi> and <hi>Indian</hi> Grain) fit for Traffick that this Coun<g ref="char:EOLhyphen"/>trey affords.</p>
+                  <p>Now I ſhall give thee an Account of the <hi>Engliſh</hi> Manu<g ref="char:EOLhyphen"/>factory, that each County in <hi>Weſt-New-Jerſey</hi> affords. In the firſt Place I ſhall begin with <hi>Bur<g ref="char:EOLhyphen"/>lington-County,</hi> as for <hi>Peltage,</hi> or <hi>Bea<g ref="char:EOLhyphen"/>vers Skins,! Otter-Skins, Minks Skins, Musk-rats Skins, Rackcoon, Wild Cats, Martin,</hi> and <hi>Deer-Skins,</hi> &amp;c. The Trade in <hi>Gloceſter-County</hi> conſiſts chiefly in <hi>Pitch, Tar,</hi> and <hi>Roſin;</hi> the latter of
+<pb n="33" facs="tcp:99589:56"/> which is made by <hi>Robert Styles,</hi> an excellent Artiſt in that ſort of Work, for he delivers it as clear as any <hi>Gum-Arabick.</hi> The Commerce carried on in <hi>Salam-County,</hi> is chiefly <hi>Rice,</hi> of which they have wonderful Produce every Year; as alſo of <hi>Cran<g ref="char:EOLhyphen"/>berries</hi> which grow there in great plenty, and which in Picle might be brought to <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> The Commodities of <hi>Cap<g ref="char:EOLhyphen"/>may-County,</hi> are <hi>Oyl</hi> and <hi>Whale-Bone,</hi> of which they make pro<g ref="char:EOLhyphen"/>digious, nay vaſt quantities eve<g ref="char:EOLhyphen"/>ry Year, having mightily ad<g ref="char:EOLhyphen"/>vanc'd that great Fiſhery, tak<g ref="char:EOLhyphen"/>ing great numbers of Whales yearly. This Country for the general part of it, is extraordi<g ref="char:EOLhyphen"/>nary good, and proper for the raiſing of all ſorts of Cattel, very plentiful here, as Cows, Horſes, Sheep, and Hogs, <hi>&amp;c.</hi> likewiſe it is well Stor'd with ſe<g ref="char:EOLhyphen"/>veral ſorts of Fruits which make
+<pb n="34" facs="tcp:99589:57"/> very good and pleaſant Liquors, ſuch as their Neighbouring Coun<g ref="char:EOLhyphen"/>try before mention'd affords. Now Reader, having no more to add of any moment or im<g ref="char:EOLhyphen"/>portance, I ſalute thee in Chriſt; and whether thou ſtayeſt in <hi>England, Scotland, Ireland,</hi> or <hi>Wales,</hi> or goeſt to <hi>Penſilvania, Weſt</hi> or <hi>Eaſt-Jerſey,</hi> I wiſh thee all Health and Happineſs in this, and Everlaſting Comfort (in God) in the World to come. Fare thee well.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:99589:58"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
